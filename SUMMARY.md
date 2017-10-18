@@ -16,7 +16,7 @@
 * [E.2. HackMD](apps/E2_HackMD/README.md)
 * [F.1. Pombola](apps/F1_Pombola/README.md)
 * [F.2. Alaveteli](apps/F2_Alaveteli/README.md)
-* [G.1. pol.is](apps/G1_polis/README.md)
+* [G.1. polis](apps/G1_polis/README.md)
 * [G.2. All Our Ideas](apps/G2_AllOurIdeas/README.md)
 * [H.1. Your Priorities](apps/H1_YourPriorities/README.md)
 * [H.2. e-petitions (gov.uk)](apps/H2_epetitions/README.md)

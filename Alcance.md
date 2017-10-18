@@ -73,5 +73,3 @@ Posteriormente se documentan a nivel de **arquitectura** los grados de personali
 7. Servicios externos o APIs a los que se requiera para acceder (por ejemplo Google Maps o Bing Maps)
 
 Por último se agrega información relativa al **modelo de datos**, con un esquema de la base de datos así como un listado de las tablas utilizadas por la aplicación. 
-
-

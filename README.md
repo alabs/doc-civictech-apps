@@ -2,16 +2,6 @@
 
 Análisis de plataformas de participación ciudadana y comunidades digitales
 
-* * *
-
-
-**BORRADOR PRELIMINAR **
-
-**NO HACER CIRCULAR**
-
-* * *
-
-
 # ¿Qué es este documento?
 
 El presente documento y sus anexos recoge los análisis realizados a distintos aplicativos web desarrollados para facilitar y modelizar la participación ciudadana en procesos de gobernanza, con el objetivo de mejorar y ampliar en su caso, las funcionalidades de la plataforma de participación Decidim ([https://decidim.org](https://decidim.org)) así como avanzar en dinámicas innovadoras de participación ciudadana mediadas por las tecnologías de la información (TICs).

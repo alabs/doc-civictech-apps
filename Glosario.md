@@ -1,5 +1,7 @@
 
-# XX Glosario (NOTE:  Las fuenes utilizadas para las definiciones contenidas en el glosario provienen fundamentalmente de Wikipedia (https://es.wikipedia.org). En caso contrario se referencia la fuente o fuentes utilizadas en notas al pié de página para cada palabra/concepto.)
+# Glosario 
+
+Las fuenes utilizadas para las definiciones contenidas en el glosario provienen fundamentalmente de [Wikipedia](https://es.wikipedia.org). En caso contrario se referencia la fuente o fuentes utilizadas en notas al pié de página para cada palabra/concepto.
 
 **iframe**
 
