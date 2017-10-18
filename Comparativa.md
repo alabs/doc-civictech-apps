@@ -694,8 +694,6 @@ Para facilitar el estudio de los distintos aplicativos se agrega un cuadro resum
 
 Llama la atención que el lenguaje de programación y framework más popular para este tipo de aplicaciones sea Ruby ya que, según el sitio web para programadores StackOverflow[^1] que recoge los lenguajes de programación más populares, Ruby se encontraría en el décimo puesto:
 
-[^1]: https://insights.stackoverflow.com/survey/2017#most-popular-technologies
-
 ![image alt text](image_3.png)
 
 **Figura 2:** Lenguajes de programación más populares en encuesta de StackOverflow
@@ -895,8 +893,6 @@ Como puede apreciarse, la licencia más utilizada para los aplicativos estudiado
 
 Si se compara con los tipos de licencia más populares en GitHub[^2] se ve que este tipo de licencia no cuenta con este grado de popularidad en el resto de proyectos libres o abiertos publicados en esta plataforma: 
 
-[^2]: https://github.com/blog/1964-open-source-license-usage-on-github-com 
-
 <table>
   <tr>
     <td>Orden</td>
@@ -959,8 +955,6 @@ Si se compara con los tipos de licencia más populares en GitHub[^2] se ve que e
 La licencia pública general de Affero (en inglés, Affero General Public License, Affero GPL o AGPL) es una licencia copyleft derivada de la Licencia Pública General de GNU diseñada específicamente para asegurar la cooperación con la comunidad en el caso de software que corra en servidores de red. La Affero GPL es íntegramente una GNU GPL con una cláusula nueva que añade la obligación de distribuir el software si éste se ejecuta para ofrecer servicios a través de una red de ordenadores.
 
 La Free Software Foundation recomienda el uso de esta licencia "para cualquier software que usualmente corra sobre una red"[^3].
-
-[^3]: The FSF recommends that people consider using the GNU AGPL for any software which will commonly be run over a network. [https://www.fsf.org/news/agplv3-pr](https://www.fsf.org/news/agplv3-pr)
 
 La elección de este tipo de licencia AGPLv3 para este tipo de proyectos, en su mayoría relacionados con valores democráticos, obliga a las obras derivadas creadas a cumplir con este mismo tipo de licencia, en contraposición a otras licencias como la MIT, BSD o Apache en el que se podría cerrar el código de las aplicaciones derivadas, por lo que, al menos en principio, dicha licencia parece la más adecuada para una plataforma como Decidim.
 
@@ -1514,3 +1508,10 @@ Un aspecto fundamental en el desarrollo de software es el mantenimiento del mism
     <td>No</td>
   </tr>
 </table>
+
+[^1]: https://insights.stackoverflow.com/survey/2017#most-popular-technologies
+
+[^2]: https://github.com/blog/1964-open-source-license-usage-on-github-com 
+
+[^3]: The FSF recommends that people consider using the GNU AGPL for any software which will commonly be run over a network. [https://www.fsf.org/news/agplv3-pr](https://www.fsf.org/news/agplv3-pr)
+
