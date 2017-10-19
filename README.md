@@ -6,11 +6,13 @@ Análisis de plataformas de participación ciudadana y comunidades digitales
 
 El presente documento recoge los análisis realizados a distintos aplicativos web desarrollados para facilitar y modelizar la participación ciudadana en procesos de gobernanza, con el objetivo de mejorar y ampliar en su caso, las funcionalidades de la plataforma de participación Decidim \([https://decidim.org](https://decidim.org)\) así como avanzar en dinámicas innovadoras de participación ciudadana mediadas por las tecnologías de la información \(TICs\).
 
+Los análisis se han realizado sobre la situación de los aplicativos a fecha de octubre de 2017.
+
 # Metadatos
 
 ## Autoría
 
-Este borrador está siendo escrito por Andrés Pereira de Lucena. El autor es a su vez el editor del texto. Las contribuciones de terceras personas serán aceptadas o rechazadas y en su caso reconocidas en este apartado.
+Este ~~borrador está siendo~~ documento ha sido escrito por Andrés Pereira de Lucena. El autor es a su vez el editor del texto. Las contribuciones de terceras personas serán aceptadas o rechazadas y en su caso reconocidas en este apartado.
 
 ## Revisores
 
@@ -30,7 +32,7 @@ Así mismo se ha realizado una comparativa de ciertos metadatos de los aplicativ
 
 Por último se proponen una serie de recomendaciones con el fin de mejorar ciertos aspectos funcionales del desarrollo de Decidim.
 
-Como anexo se pueden encontrar todas los aplicativos  estudiados. Por cada aplicativo estudiado se recogen sus metadatos, funcionalidades y capturas de pantallas. A continuación se realiza un análisis de en qué contextos se ha utilizado, el estado de su arquitectura así como de los servicios necesarios para hacerlo funcionar,  y finalmente se analiza su modelo de datos \(modelos relevantes, listado de tablas y gráficos UML de las mismas\).
+Por cada aplicativo estudiado se recogen sus metadatos, funcionalidades y capturas de pantallas. A continuación se realiza un análisis de en qué contextos se ha utilizado, el estado de su arquitectura así como de los servicios necesarios para hacerlo funcionar,  y finalmente se analiza su modelo de datos \(modelos relevantes, listado de tablas y gráficos UML de las mismas\).
 
 Los aplicativos estudiados para la elaboración de este análisis han sido:
 
@@ -86,7 +88,7 @@ Democracia participativa, software, participación ciudadana, comentarios de tex
 
 ## Cómo citar este documento
 
-Pereira de Lucena, A. \(2017\) _A\*\*nálisis de plataformas de participación ciudadana y comunidades digitales_.
+Pereira de Lucena, A. \(2017\) _Análisis de plataformas de participación ciudadana y comunidades digitales_.
 
 ## Licencia
 
