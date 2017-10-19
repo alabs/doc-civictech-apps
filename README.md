@@ -12,7 +12,7 @@ Los análisis se han realizado sobre la situación de los aplicativos a fecha de
 
 ## Autoría
 
-Este ~~borrador está siendo~~ documento ha sido escrito por Andrés Pereira de Lucena. El autor es a su vez el editor del texto. Las contribuciones de terceras personas serán aceptadas o rechazadas y en su caso reconocidas en este apartado.
+Este documento ha sido escrito por Andrés Pereira de Lucena. El autor es a su vez el editor del texto. Las contribuciones de terceras personas serán aceptadas o rechazadas y en su caso reconocidas en este apartado.
 
 ## Revisores
 
