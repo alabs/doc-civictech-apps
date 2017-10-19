@@ -24,7 +24,7 @@ Daniel Vázquez \(Asociación aLabs\), Txema Laullón \(Asociación aLabs\).
 
 El presente estudio recoge los análisis técnicos realizados a distintos aplicativos web de participación ciudadana con el objetivo de servir de base para mejorar y ampliar, en su caso, las funcionalidades de la plataforma de participación Decidim \([https://decidim.org](https://decidim.org)\) así como avanzar en dinámicas innovadoras de participación ciudadana.
 
-Al tratarse de aplicativos protegidos con licencias libres o de código abierto se han podido realizar instalaciones de pruebas de los mismos así como un estudio pormenorizado de las acciones que pueden realizarse con distintos perfiles de usuario.
+Al tratarse de aplicativos protegidos con licencias libres o de código abierto se han podido realizar instalaciones de pruebas de los mismos así como un análisis pormenorizado de las acciones que pueden realizarse con distintos perfiles de usuario.
 
 Con el fin de facilitar la navegación y comparación entre aplicativos, se han categorizado los mismos según el tipo de dinámica participativa con la que cuentan: Integral, Comentario de texto, Mapeo colaborativo, Debate, Escritura colaborativa en tiempo real, Transparencia, Propuestas \(votación a pares\), Propuestas \(priorización\), Voto electrónico, eGroupware y Dinamización de asambleas.
 
