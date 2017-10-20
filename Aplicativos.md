@@ -17,9 +17,11 @@ Con el fin de facilitar la navegación por las distintas aplicaciones y su compa
   <tr>
     <td>A. Integral</td>
     <td>Permiten distintos tipos de dinámicas participativas integradas que posibilitan llevar a cabo distintos modelos de procesos participativos. Para ello cuentan con mecanismos integrados de "Comentario de texto", “Mapeo colaborativo” y “Debate”.</td>
-    <td>A.1. Decidim
-A.2. Open Irekia
-A.3. Consul</td>
+    <td>
+    * A.1. Decidim 
+    * A.2. Open Irekia
+    * A.3. Consul
+    </td>
   </tr>
   <tr>
     <td>B. Comentario de texto</td>
@@ -84,3 +86,8 @@ J.2. Elgg</td>
   </tr>
 </table>
 
+Hay algunas aplicaciones que no se pudieron estudiar por diversos motivos: por falta de tiempo, porque ya había otras aplicaciones que cubrían esas necesaidades, o porque estén todavía en desarrollo. Para una futura versión de este informe algunas de las aplicaciones que se podrían estudiar son JetPad[^1], OpenBudgets[^2] y Democracy.Earth[^3].
+
+[^1]: https://github.com/P2Pvalue/jetpad
+[^2]: https://github.com/openbudgets
+[^3]: http://democracy.earth/
