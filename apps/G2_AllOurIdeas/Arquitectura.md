@@ -15,17 +15,12 @@ ActiveResource se trata de una serie de clases para proveer el mapeado de modelo
 
 Contiene una ontología para realizar una serie de acciones. Para una mejor comprensión se traduce de la documentación original[^3]:
 
-*Peticiones**: Una petición es un conjunto de opciones. Por ejemplo, si la pregunta es "¿Cuál quieres más?", un ejemplo sería "helado gratis" o "cerveza gratis".*
-
-*Preguntas**: Una pregunta se refiere a un mercado de ideas enteras. Por ejemplo, cuando alguien crea una pregunta está creando una idea de mercado que está hecha de elecciones y votos.*
-
-*Opciones**: **Una Opción es uno de los elementos entre los que la gente está eligiendo.** Ejemplos de opciones son: "helado gratis", "cerveza gratis", "mejores profesores". Las opciones también se pueden definir mediante imágenes, vídeos o archivos de sonido.*
-
-*Visitantes**: Un Visitante es alguien que visita una pregunta.*
-
-*Exportaciones**: Una Exportación es la exportación de datos CSV de los votos, no votos o ideas de una pregunta.*
-
-*Densidades**: Éstos producen gráficos sobre los patrones de avisos que han sido votados. Estos son experimentales y es probable que no quieren usarlos ahora. [experimental*]*
+> Peticiones: Una petición es un conjunto de opciones. Por ejemplo, si la pregunta es "¿Cuál quieres más?", un ejemplo sería "helado gratis" o "cerveza gratis".
+> Preguntas: Una pregunta se refiere a un mercado de ideas enteras. Por ejemplo, cuando alguien crea una pregunta está creando una idea de mercado que está hecha de elecciones y votos.
+> Opciones: Una Opción es uno de los elementos entre los que la gente está eligiendo. Ejemplos de opciones son: "helado gratis", "cerveza gratis", "mejores profesores". Las opciones también se pueden definir mediante imágenes, vídeos o archivos de sonido.
+> Visitantes: Un Visitante es alguien que visita una pregunta.
+> Exportaciones: Una Exportación es la exportación de datos CSV de los votos, no votos o ideas de una pregunta.
+> Densidades: Éstos producen gráficos sobre los patrones de avisos que han sido votados. Estos son experimentales y es probable que no quieren usarlos ahora. [experimental]
 
 No tiene ningún sistema de temas que permita personalizar su diseño ni cuenta con traducciones. Para su modalidad de mostrar los dos sitios web en simultaneo de photocracy.org y allourideas.org, que podría ser un multitenant (multi-instancia), lo hacen comprobando si en la URL aparece la cadena de texto "photocracy" y en caso positivo se ejecutan una serie de reglas que muestra uno u otro contenido.[^4]
 
