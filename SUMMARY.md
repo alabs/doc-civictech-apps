@@ -183,4 +183,7 @@
     * [K.1.7 Capturas de pantallas](apps/K1_Turnometro/Capturas.md)
 * [Comparativa](Comparativa.md)
 * [Conclusiones](Conclusiones.md)
-
+    * [Administración](conclusions/Administracion.md) 
+    * [Documentación](conclusions/Documentacion.md) 
+    * [User Engagement](conclusions/UserEngagement.md) 
+    * [Propuestas](conclusions/Propuestas.md) 
