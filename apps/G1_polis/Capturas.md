@@ -10,39 +10,39 @@
 
 ![image alt text](image_3.png)
 
-**Figura ****G.1.****7.3:** Registro de usuario
+**Figura G.1.7.3:** Registro de usuario
 
 ![image alt text](image_4.png)
 
-**Figura ****G.1.****7.4:** Portada (con sesión iniciada)
+**Figura G.1.7.4:** Portada (con sesión iniciada)
 
 ![image alt text](image_5.png)
 
-**Figura ****G.1.****7.5:** Integración
+**Figura G.1.7.5:** Integración
 
 ![image alt text](image_6.png)
 
-**Figura ****G.1.****7.6:** Cuenta de usuario
+**Figura G.1.7.6:** Cuenta de usuario
 
 ![image alt text](image_7.png)
 
-**Figura ****G.1.****7.7:** Configuración de Conversación I 
+**Figura G.1.7.7:** Configuración de Conversación I 
 
 ![image alt text](image_8.png)
 
-**Figura ****G.1.****7.8:** Configuración de Conversación II
+**Figura G.1.7.8:** Configuración de Conversación II
 
 ![image alt text](image_9.png)
 
-**Figura ****G.1.****7.9:** Configuración general III
+**Figura G.1.7.9:** Configuración general III
 
 ![image alt text](image_10.png)
 
-**Figura ****G.1.****7.10:** Integrar una Conversación en un sitio web externo
+**Figura G.1.7.10:** Integrar una Conversación en un sitio web externo
 
 ![image alt text](image_11.png)
 
-**Figura ****G.1.****7.11:** Comentarios recibidos en una Conversación
+**Figura G.1.7.11:** Comentarios recibidos en una Conversación
 
 ![image alt text](image_12.png)
 

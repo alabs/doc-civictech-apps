@@ -4,9 +4,9 @@ Cuenta con dos componentes principales, cada uno en un repositorio separado, all
 
 #### allourideas
 
-*All Our Ideas 2.0. Este código funciona en dos sitios **[photocracy.org](http://www.photocracy.org/)** y **[allourideas.org](http://www.allourideas.org/)**.
+*All Our Ideas 2.0. Este código funciona en dos sitios **[photocracy.org](http://www.photocracy.org/)** y **[allourideas.org](http://www.allourideas.org/)***.
 
-*El proyecto allourideas.org proporciona al usuario el sitio web para hacer la votación **por parejas**. Este proyecto depende de la API proporcionada por **[pairwise-api](https://github.com/allourideas/pairwise-api)**. Hay varios modelos de **[ActiveResource](http://apidock.com/rails/v2.3.8/ActiveResource/Base)** que se conectan a la **[API pairwise](https://github.com/allourideas/pairwise-api).**[^1]
+*El proyecto allourideas.org proporciona al usuario el sitio web para hacer la votación **por parejas**. Este proyecto depende de la API proporcionada por **[pairwise-api](https://github.com/allourideas/pairwise-api)**. Hay varios modelos de **[ActiveResource](http://apidock.com/rails/v2.3.8/ActiveResource/Base)** que se conectan a la **[API pairwise](https://github.com/allourideas/pairwise-api).**[^1]*
 
 ActiveResource se trata de una serie de clases para proveer el mapeado de modelos RESTful en aplicaciones Rails.[^2]
 
