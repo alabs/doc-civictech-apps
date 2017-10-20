@@ -1,6 +1,6 @@
 # Alcance y Metodología
 
-El estudio se ha centrado exclusivamente en aplicativos web libres, es decir, aquellos que están protegidos por una licencia avalada por la Open Source Initiative (NOTE:  https://opensource.org/licenses/alphabetical ), licencias que permiten tanto su estudio como su modificación y/o adaptación y distribución, así como su instalación y análisis desde la perspectiva del usuario en sus distintos perfiles: usuario final, administrador, moderador, etc.
+El estudio se ha centrado exclusivamente en aplicativos web libres, es decir, aquellos que están protegidos por una licencia avalada por la Open Source Initiative[^1], licencias que permiten tanto su estudio como su modificación y/o adaptación y distribución, así como su instalación y análisis desde la perspectiva del usuario en sus distintos perfiles: usuario final, administrador, moderador, etc.
 
 Así mismo, los aplicativos seleccionados para el estudio han sido o están siendo utilizados en la práctica por experiencias concretas de gobierno en distintas escalas (ciudad, provincia, estado, etc), así como por organizaciones sociales, cívicas y políticas, no obstante lo cual se han incluido también "pruebas de concepto" que se consideran especialmente relevantes para los fines del presente documento. 
 
@@ -73,3 +73,5 @@ Posteriormente se documentan a nivel de **arquitectura** los grados de personali
 7. Servicios externos o APIs a los que se requiera para acceder (por ejemplo Google Maps o Bing Maps)
 
 Por último se agrega información relativa al **modelo de datos**, con un esquema de la base de datos así como un listado de las tablas utilizadas por la aplicación. 
+
+[^1]: https://opensource.org/licenses/alphabetical

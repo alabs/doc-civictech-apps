@@ -1,6 +1,6 @@
 ### F.1.3 Implantación
 
-Es un proyecto de MySociety, basado en el sitio web TheyWorkForYou (NOTE:  https://www.theyworkforyou.com/ ). Se trata de una reescritura con soporte para múltiples sitios, y actualmente se encuentra funcionando en diversos países, siempre gestionado por la sociedad civil: 
+Es un proyecto de MySociety, basado en el sitio web TheyWorkForYou[^1]. Se trata de una reescritura con soporte para múltiples sitios, y actualmente se encuentra funcionando en diversos países, siempre gestionado por la sociedad civil: 
 
 <table>
   <tr>
@@ -35,5 +35,4 @@ Es un proyecto de MySociety, basado en el sitio web TheyWorkForYou (NOTE:  https
   </tr>
 </table>
 
-
-
+[^1]:  https://www.theyworkforyou.com/

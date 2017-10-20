@@ -4,6 +4,6 @@ El estudio del aplicativo se ha realizado durante las sesiones de Inteligencia C
 
 Continuó su desarrollo en el OGP Summit Hackathon de 2016 del 7 al 9 de diciembre en París (Francia).
 
-Cuenta con aplicación móvil disponible en la Google Play Store (NOTE:  https://play.google.com/store/apps/details?id=me.danielrosero.turnometro ). 
+Cuenta con aplicación móvil disponible en la Google Play Store[^1] 
 
-
+[^1]: https://play.google.com/store/apps/details?id=me.danielrosero.turnometro

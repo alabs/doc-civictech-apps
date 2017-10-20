@@ -10,7 +10,10 @@ Cuenta con la capacidad de cambiar su imagen gráfica a través de temas. Ofrece
 
 * [https://github.com/liqd/adhocracy.enquete_theme](https://github.com/liqd/adhocracy.enquete_theme)
 
-Cuentan con un script de instalación automática (NOTE:  https://raw.githubusercontent.com/liqd/adhocracy/develop/build.sh ) en sistemas GNU/Linux de tipo Debian, Arch o Ubuntu. ![image alt text](image_2.png)
+Cuentan con un script de instalación automática[^1] en sistemas GNU/Linux de tipo Debian, Arch o Ubuntu.
 
-**Figura J.2.4.1: **Esquema de servidores de adhocracy
+![image alt text](image_2.png)
 
+**Figura J.2.4.1:** Esquema de servidores de adhocracy
+
+[^1]: https://raw.githubusercontent.com/liqd/adhocracy/develop/build.sh 

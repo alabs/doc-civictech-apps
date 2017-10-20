@@ -2,7 +2,7 @@
 
 Es una aplicación javascript escrita con el framework Ember.js, con un backend escrito en Ruby on Rails para la persistencia de contenidos en la base de datos. 
 
-Cuenta con un instalador (NOTE:  https://github.com/discourse/discourse_docker.git ) que facilita todo el proceso, a través de scripts que descargan y configuran imágenes docker para la instalación del sistema. Cuenta con un asistente de instalación en el que se preguntan las principales opciones. 
+Cuenta con un instalador[^1] que facilita todo el proceso, a través de scripts que descargan y configuran imágenes docker para la instalación del sistema. Cuenta con un asistente de instalación en el que se preguntan las principales opciones. 
 
 */var/discourse$ sudo ./discourse-setup*
 
@@ -51,3 +51,4 @@ Los desarrolladores han optado por no incluir en el aplicativo un servidor SMTP 
 **Figura D.1.4.1:** Esquema de arquitectura de Discourse
 
 
+[^1]: https://github.com/discourse/discourse_docker.git

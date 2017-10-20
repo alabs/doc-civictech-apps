@@ -8,7 +8,7 @@ De cara a mejorar la participación de los usuarios en la plataforma (user engag
 
 Son caracteres popularizados por los smartphones, que se encuentran disponibles en múltiples aplicaciones (Gmail, Facebook, Twitter, Whatsapp, Telegram, Google Hangouts) y que permiten comunicar expresiones faciales, objetos, lugares, etc. 
 
-Son elementos que tienen cada vez más relevancia tanto a nivel técnico como cultural, siendo incluso un emoji (![image alt text](image_8.png)) la palabra del Año 2015 según el diccionario Oxford  (NOTE:  http://blog.oxforddictionaries.com/2015/11/word-of-the-year-2015-emoji/ ). Así mismo cuentan con una clara tendencia ascendente según el servicio Google Trends que permite analizar términos de búsqueda en Google  (NOTE:  https://www.google.es/trends/explore#q=emoji&date=1%2F2011%2072m&cmpt=q&tz=Etc%2FGMT-2 ). 
+Son elementos que tienen cada vez más relevancia tanto a nivel técnico como cultural, siendo incluso un emoji (![image alt text](image_8.png)) la palabra del Año 2015 según el diccionario Oxford[^1]. Así mismo cuentan con una clara tendencia ascendente según el servicio Google Trends que permite analizar términos de búsqueda en Google[^2]. 
 
 ![image alt text](image_9.png)
 
@@ -22,3 +22,5 @@ Your Priorities lo tiene en su plan de desarrollo. En el caso de Discourse inclu
 
 **Figura D.2.11 (Anexo D.2 Loomio): **Emojis en comentarios
 
+[^1]: http://blog.oxforddictionaries.com/2015/11/word-of-the-year-2015-emoji/
+[^2]: https://www.google.es/trends/explore#q=emoji&date=1%2F2011%2072m&cmpt=q&tz=Etc%2FGMT-2

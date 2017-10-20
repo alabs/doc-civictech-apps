@@ -28,7 +28,7 @@
 
 * Soporta Emojis
 
-* Permite subir imágenes de distintas formas: a través del formulario, arrastrando y soltando o pegando una imagen. Por defecto las guarda en el servicio externo privativo imgur (NOTE:  https://imgur.com/).
+* Permite subir imágenes de distintas formas: a través del formulario, arrastrando y soltando o pegando una imagen. Por defecto las guarda en el servicio externo privativo imgur[^1].
 
 * Se pueden exportar las notas a través de Dropbox o descargando un fichero markdown en local.
 
@@ -44,4 +44,4 @@
 
 * Integra automáticamente contenido de sitios externos (YouTube, Vimeo, Gist, SlideShare y Speakerdeck), formatos (PDF) y sintaxis en diferentes lenguajes (MathJax, diagramas UML, diagramas de secuencia, gráficos de flujo, Graphviz, Mermaid, Abc) 
 
-
+[^1]: https://imgur.com/

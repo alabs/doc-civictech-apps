@@ -1,6 +1,6 @@
 ### A.3.2 Funcionalidades 
 
-Cuenta con las siguientes funcionalidades a alto nivel (NOTE:  http://www.decide.es/es/index.html ): 
+Cuenta con las siguientes funcionalidades a alto nivel[^1]:
 
 * **_Debates_***: Cualquier persona puede abrir hilos de discusión sobre cualquier tema, creando espacios independientes donde la gente puede debatir sobre el tema propuesto. Los debates son valorados por todos, para destacar los temas más importantes.*
 
@@ -22,3 +22,4 @@ Cuenta con las siguientes funcionalidades a alto nivel (NOTE:  http://www.decide
 
 * **_Sistema avanzado de roles_***: Posibilidad de definir múltiples tipos de usuarios con accesos diferentes a la herramienta (ej: administradores, moderadores, evaluadores, cargos, etc.) *
 
+[^1]: http://www.decide.es/es/index.html

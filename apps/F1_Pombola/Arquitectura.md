@@ -20,15 +20,17 @@ Permite tener distintas instancias y presentar un diseño, contenidos o código 
 
 *data  initial_import  __init__.py  lib.py  management  static  templates  tests.py  urls.py  views.py*
 
-En su propia documentación comentan que esta forma de personalizar no es la óptima sino como se encuentra funcionando actualmente (NOTE:  https://github.com/mysociety/pombola/blob/master/docs/STYLING_NOTES.md 
-Texto original: These notes cover how the styling currently works, but it is almost certainly not the best way and needs improving, which will hopefully be done as part of a larger refactor to make it easier to reuse the codebase across several countries.):
+En su propia documentación comentan que esta forma de personalizar no es la óptima sino como se encuentra funcionando actualmente[^1]:
 
 *Estas notas cubren cómo funciona actualmente el estilo, pero es casi seguro que no es el mejor camino y necesita mejoras, lo que se espera que se haga como parte de una refactorización más amplia para facilitar la reutilización de la base de código en varios países.*
 
-A nivel de servidores se recomienda el uso del servicio de SaaS (*Software as a Service*) Heroku (NOTE:  https://github.com/mysociety/pombola/blob/master/docs/heroku.md ), aunque también cuenta con ejemplos de configuración en servidores web para tener una instalación propia.
+A nivel de servidores se recomienda el uso del servicio de SaaS (*Software as a Service*) Heroku[^2], aunque también cuenta con ejemplos de configuración en servidores web para tener una instalación propia.
 
 ![image alt text](image_1.png)
 
 **Figura F.1.4.1:** Arquitectura de servidores de Pombola
 
 
+[^1]: https://github.com/mysociety/pombola/blob/master/docs/STYLING_NOTES.md 
+iginal: These notes cover how the styling currently works, but it is almost certainly not the best way and needs improving, which will hopefully be done as part of a larger refactor to make it easier to reuse the codebase across several countries.
+[^2]: https://github.com/mysociety/pombola/blob/master/docs/heroku.md 

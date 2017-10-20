@@ -4,7 +4,7 @@ Consta de librerías y generadores de código hecho en el lenguaje Ruby con el f
 
 Cuenta con soporte de internacionalización y adaptación de imagen gráfica. 
 
-Cuenta con distintos componentes para facilitar la modularización y colaboración de otras entidades. Se extrae y traduce de su documentación (NOTE:  https://github.com/decidim/decidim ): 
+Cuenta con distintos componentes para facilitar la modularización y colaboración de otras entidades. Se extrae y traduce de su documentación[^1]: 
 
 <table>
   <tr>
@@ -79,3 +79,4 @@ Cuenta con distintos componentes para facilitar la modularización y colaboraci�
 
 **Figura A.1.4.1:** Arquitectura de servidores de Decidim
 
+[^1]: https://github.com/decidim/decidim

@@ -1,6 +1,6 @@
 ### F.2.3 Implantación
 
-Cuenta con más de 24 instalaciones en distintos países (NOTE:  http://alaveteli.org/deployments/ ): 
+Cuenta con más de 24 instalaciones en distintos países[^1]: 
 
 <table>
   <tr>
@@ -131,10 +131,11 @@ Cuenta con más de 24 instalaciones en distintos países (NOTE:  http://alavetel
 </table>
 
 
-Cuenta con documentación extensa para facilitar su instalación y personalización, así como del funcionamiento del flujo de la aplicación (NOTE:  http://alaveteli.org/docs/getting_started/ ): 
+Cuenta con documentación extensa para facilitar su instalación y personalización, así como del funcionamiento del flujo de la aplicación[^2]: 
 
 ![image alt text](image_1.png)
 
 **Figura F.2.3.1:** Funcionamiento de Alaveteli
 
-
+[^1]: http://alaveteli.org/deployments/
+[^2]: http://alaveteli.org/docs/getting_started/

@@ -12,12 +12,14 @@
 
 * Cuenta con aplicación móvil tanto para Android como para iOS (iPhone).
 
-* Cuenta con una amplia documentación sobre su instalación, configuración inicial, personalización de imagen y textos, etc.  (NOTE:  http://fixmystreet.org/overview/ ) 
+* Cuenta con una amplia documentación sobre su instalación, configuración inicial, personalización de imagen y textos, etc.[^1]
 
 * Cuenta con diseño responsivo y adaptable a distintos formatos (móvil, tablet, etc)
 
-* Permite configurar los reportes para que se envían a destinatarios específicos en función del área de ámbito geográfico y categoría del reporte, a través de distintos sistemas de envio: correo electrónico, Open311 (NOTE:  Open311 "A collaborative model and open standard for civic issue tracking" - http://www.open311.org/. Un protocolo estándar para el reporte de incidencias no críticas por parte de la ciudadanía. ), etc. 
+* Permite configurar los reportes para que se envían a destinatarios específicos en función del área de ámbito geográfico y categoría del reporte, a través de distintos sistemas de envio: correo electrónico, Open311[^2], etc. 
 
-* Por defecto, al cumplirse un mes del reporte, el sistema envía un cuestionario al usuario para que responda una encuesta actualizando el estado de la incidencia, donde puede cambiar su estado a "arreglado" (fixed), agregar una descripción o comentario o incluso subir una foto.  (NOTE:  http://fixmystreet.org/running/surveys/ ) 
+* Por defecto, al cumplirse un mes del reporte, el sistema envía un cuestionario al usuario para que responda una encuesta actualizando el estado de la incidencia, donde puede cambiar su estado a "arreglado" (fixed), agregar una descripción o comentario o incluso subir una foto.[^3]
 
-
+[^1]: http://fixmystreet.org/overview/
+[^2]: Open311 "A collaborative model and open standard for civic issue tracking" - http://www.open311.org/. Un protocolo estándar para el reporte de incidencias no críticas por parte de la ciudadanía.
+[^3]: http://fixmystreet.org/running/surveys/

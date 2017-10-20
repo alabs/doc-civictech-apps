@@ -16,9 +16,10 @@
 
 * Cuenta con paginación infinita para la lectura del hilo. 
 
-* Cuenta con soporte para plugins (NOTE:  https://github.com/loomio/loomio/tree/master/plugins
-https://github.com/loomio/loomio/tree/master/docs/en/plugins).
+* Cuenta con soporte para plugins[^1].
 
-* Ofrece una amplia documentación de todas sus funcionalidades, tanto para usuarios (NOTE:  https://loomio.gitbooks.io/manual/content/en/index.html ) como para desarrolladores (NOTE:  https://github.com/loomio/loomio/tree/master/docs/en ).
+* Ofrece una amplia documentación de todas sus funcionalidades, tanto para usuarios[^2] como para desarrolladores[^3].
 
-
+[^1]: https://github.com/loomio/loomio/tree/master/plugins
+[^2]: https://loomio.gitbooks.io/manual/content/en/index.html
+[^3]: https://github.com/loomio/loomio/tree/master/docs/en

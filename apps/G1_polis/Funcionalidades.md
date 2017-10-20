@@ -6,7 +6,7 @@
 
 * La priorización puede ser de la forma "estar de acuerdo", “en desacuerdo” o si no estar seguros / pasan
 
-* Permite integrar una Conversación en sitios web externos a través de iframes (NOTE:  Elemento HTML que permite insertar o incrustar un documento HTML dentro de un documento HTML principal. (https://es.wikipedia.org/wiki/Iframe))
+* Permite integrar una Conversación en sitios web externos a través de iframe.
 
 * Permite descargar los datos de una Conversación
 

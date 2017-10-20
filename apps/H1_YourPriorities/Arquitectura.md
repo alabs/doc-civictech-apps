@@ -4,13 +4,13 @@ Se trata de una aplicación web hecha con nodeJS y el framework javascript para 
 
 Esta se trata de la tercera versión: 
 
-* **Open Active Democracy** (NOTE:  https://github.com/rbjarnason/open-active-democracy ): de 2009 a 2012. Hecha con Ruby on Rails. 
+* **Open Active Democracy**[^1]: de 2009 a 2012. Hecha con Ruby on Rails. 
 
-* **Your Priorities** (NOTE:  https://github.com/rbjarnason/your-priorities ): de 2013 a 2016. Hecha con Ruby on Rails. 
+* **Your Priorities**[^2]: de 2013 a 2016. Hecha con Ruby on Rails. 
 
-* **Your Priorities App** (NOTE:  https://github.com/rbjarnason/your-priorities-app/ ): desde 2016. Hecha con NodeJS. 
+* **Your Priorities App**[^3]: desde 2016. Hecha con NodeJS. 
 
-A nivel de documentación no cuenta con una explicación exhaustiva de cómo proceder con la instalación inicial. Siguiendo los pasos detallados en el fichero README del proyecto (NOTE:  https://github.com/rbjarnason/your-priorities-app/ ), se concluye la instalación con el siguiente mensaje de error:  
+A nivel de documentación no cuenta con una explicación exhaustiva de cómo proceder con la instalación inicial. Siguiendo los pasos detallados en el fichero README del proyecto[^4], se concluye la instalación con el siguiente mensaje de error:  
 
 *$ ./start*
 
@@ -33,3 +33,7 @@ A nivel de documentación no cuenta con una explicación exhaustiva de cómo pro
 Al no conseguir instalarlo en un servidor propio y no contar con documentación que recomiende un proceso de despliegue, no se ha podido instalar y analizar la arquitectura del aplicativo.
 
 
+[^1]: https://github.com/rbjarnason/open-active-democracy 
+[^2]: https://github.com/rbjarnason/your-priorities 
+[^3]: https://github.com/rbjarnason/your-priorities-app/
+[^4]: https://github.com/rbjarnason/your-priorities-app/ 
