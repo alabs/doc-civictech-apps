@@ -1,6 +1,6 @@
 ### A.1.3 Implantación
 
-Decidim esHa sido utilizado por numerosos municipios, en su mayoría de Cataluña: 
+Decidim es utilizado por numerosos municipios, en su mayoría de Cataluña: 
 
 <table>
   <tr>
