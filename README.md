@@ -102,6 +102,5 @@ Usted es libre de copiar y redistribuir el material en cualquier medio o formato
 
 Se concede permiso para copiar, distribuir y/o modificar este documento bajo los términos de la licencia de documentación libre GNU, versión 1.3 o cualquier otra versión posterior publicada por la Free Software Foundation; sin secciones invariantes ni textos de cubierta delantera, tampoco textos de contraportada. Puede encontrar una copia de la licencia en[ http://www.gnu.org/copyleft/fdl.html](http://www.gnu.org/copyleft/fdl.html)
 
-## Indice
 
 {% include "./SUMMARY.md" %}
