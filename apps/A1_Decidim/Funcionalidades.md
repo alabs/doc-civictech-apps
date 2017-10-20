@@ -31,4 +31,3 @@
 * Permite tener Grupos de Procesos Participativos.
 
 * Cuenta con un sistema MultiTenant, donde desde una misma instalación se pueden servir distintos sitios web con direcciones URL separadas.
-
