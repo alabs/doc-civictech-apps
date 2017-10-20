@@ -12,6 +12,10 @@ Hace referencia a la estructura, funcionamiento e interacción entre las partes 
 
 Los contenedores de software son un conjunto de elementos que permiten ejecutar una aplicación determinada en cualquier sistema operativo. Se utilizan para garantizar que una determinada aplicación se ejecute correctamente cuando cambie su entorno, sin dar fallos de ningún tipo.
 
+## CRUD
+
+XX
+
 ## CSS
 
 Hojas de estilo en cascada \(o CSS, siglas en inglés de Cascading Stylesheets\) es un lenguaje de diseño gráfico para definir y crear la presentación de un documento estructurado escrito en un lenguaje de marcado como HTML.
@@ -52,6 +56,10 @@ Plataformas de desarrollo colaborativo para alojar proyectos utilizando el siste
 
 Plataformas libre de desarrollo colaborativo para alojar proyectos utilizando el sistema de control de versiones Git.
 
+## GraphQL
+
+XX
+
 ## Groupware
 
 Software colaborativo o groupware se refiere al conjunto de programas informáticos que integran el trabajo en un sólo proyecto, con muchos usuarios concurrentes, que se encuentran en diversas estaciones de trabajo, conectadas a través de una red \(internet o intranet\).
@@ -71,6 +79,10 @@ iframe, por inline frame o marco incorporado en inglés, es un elemento HTML que
 ## JavaScript
 
 JavaScript es un lenguaje de programación orientado a objetos basado en prototipos, imperativo, débilmente tipado y dinámico. Se utiliza principalmente en su forma del lado del cliente, implementado como parte de un navegador web permitiendo mejoras en la interfaz de usuario y páginas web dinámicas​ aunque existe una forma de JavaScript del lado del servidor\(Server-side JavaScript o SSJS\).
+
+## GNU Affero GPL v3
+
+XX
 
 ## Lenguaje de marcado
 
@@ -99,6 +111,10 @@ Arquitectura de software en la cual una sola instancia de la aplicación se ejec
 ## Newsletter
 
 Boletín informativo que se elabora y distribuye de forma regular entre los usuarios de un sistema con el fin de mantenerlos informados sobre las novedades del mismo.
+
+## Ruby
+
+XX 
 
 ## Ruby on Rails
 
@@ -136,7 +152,7 @@ Al aplicar la programación modular, un problema complejo debe ser dividido en v
 
 ## Tecnopolítica
 
-La conceptualización de tecnopolítica surge del libro de Stefano Rodotà titulado "_Tecnopolitica. La democrazia e le nuove tecnologie della comunicazione_" \([https://www.ibs.it/tecnopolitica-democrazia-nuove-tecnologie-della-libro-stefano-rodota/e/9788842072713](https://www.ibs.it/tecnopolitica-democrazia-nuove-tecnologie-della-libro-stefano-rodota/e/9788842072713)\) y se incorpora al contexto español en la obra titulada "_TECNOPOLÍTICA, INTERNET Y R-EVOLUCIONES. SOBRE LA CENTRALIDAD DE REDES DIGITALES EN EL \##15M_"  \([http://www.icariaeditorial.com/pdf\_libros/Tecnopolitica,%20internet%20y%20r-evoluciones.pdf](http://www.icariaeditorial.com/pdf_libros/Tecnopolitica, internet y r-evoluciones.pdf)\).
+La conceptualización de tecnopolítica surge del libro de Stefano Rodotà titulado "_Tecnopolitica. La democrazia e le nuove tecnologie della comunicazione_" ([https://www.ibs.it/tecnopolitica-democrazia-nuove-tecnologie-della-libro-stefano-rodota/e/9788842072713](https://www.ibs.it/tecnopolitica-democrazia-nuove-tecnologie-della-libro-stefano-rodota/e/9788842072713)) y se incorpora al contexto español en la obra titulada "_TECNOPOLÍTICA, INTERNET Y R-EVOLUCIONES. SOBRE LA CENTRALIDAD DE REDES DIGITALES EN EL \##15M_"  ([http://www.icariaeditorial.com/pdf\_libros/Tecnopolitica,%20internet%20y%20r-evoluciones.pdf](http://www.icariaeditorial.com/pdf_libros/Tecnopolitica, internet y r-evoluciones.pdf)).
 
 El término hace referencia al uso táctico y estratégico de las herramientas digitales para la organización, comunicación y acción colectiva. La capacidad de la multitudes conectadas, de los cerebros y cuerpos en red para crear y automodular la acción colectiva. \([https://tecnopoliticay15m.wordpress.com/2012/08/01/concepto-tecnopolitica/](https://tecnopoliticay15m.wordpress.com/2012/08/01/concepto-tecnopolitica/)\)
 

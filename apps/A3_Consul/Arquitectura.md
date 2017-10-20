@@ -2,7 +2,7 @@
 
 Aunque se trata de una aplicación monolítica sin soporte para adaptaciones gráficas (CSS, HTML, Imagenes), si que permite la sobreescritura de ciertos ficheros para facilitar su actualización[^1]:
 
-*Puedes modificar consul y ponerle tu propia imagen, para esto debes primero hacer un fork de**[ https://github.com/consul/consu*l](https://github.com/consul/consul)* creando un repositorio nuevo en Github. Puedes usar otro servicio como Gitlab, pero no te olvides de poner el enlace en el footer a tu repositorio en cumplimiento con la licencia de este proyecto (GPL Affero 3).*
+*Puedes modificar consul y ponerle tu propia imagen, para esto debes primero hacer un fork de [https://github.com/consul/consul](https://github.com/consul/consul) creando un repositorio nuevo en Github. Puedes usar otro servicio como Gitlab, pero no te olvides de poner el enlace en el footer a tu repositorio en cumplimiento con la licencia de este proyecto (GPL Affero 3).*
 
 *Hemos creado una estructura específica donde puedes sobreescribir y personalizar la aplicación para que puedas actualizar sin que tengas problemas al hacer merge y se sobreescriban por error tus cambios. Intentamos que Consul sea una aplicación Ruby on Rails lo más plain vanilla posible para facilitar el acceso de nuevas desarrolladoras.*
 

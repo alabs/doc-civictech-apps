@@ -38,7 +38,7 @@ C.2. FixMyStreet</td>
   </tr>
   <tr>
     <td>D. Debate</td>
-    <td>Permitena una comunidad digital tener un foro de discusión. </td>
+    <td>Permiten a una comunidad digital tener un foro de discusión. </td>
     <td>D.1. Discourse
 D.2. Loomio</td>
   </tr>

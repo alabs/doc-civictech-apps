@@ -1,4 +1,4 @@
-### A.3.3 Análisis
+### A.3.3 Implantación
 
 Es utilizada por distintos ayuntamientos españoles, como el de Oviedo, A Coruña, València, Calvià, Getafe, Castelló e incluso de ciudades de fuera de España como Buenos Aires y Mendoza (Argentina).  
 

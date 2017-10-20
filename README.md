@@ -16,7 +16,7 @@ Este documento ha sido escrito por Andrés Pereira de Lucena. El autor es a su v
 
 ## Revisores
 
-Daniel Vázquez \(Asociación aLabs\), Txema Laullón \(Asociación aLabs\).
+Daniel Vázquez \(Asociación aLabs\), Txema Laullón \(Asociación aLabs\), Pablo Aragón.
 
 ![image alt text](image_1.png)
 
@@ -88,7 +88,7 @@ Democracia participativa, software, participación ciudadana, comentarios de tex
 
 ## Cómo citar este documento
 
-Pereira de Lucena, A. \(2017\) _Análisis de plataformas de participación ciudadana y comunidades digitales_.
+Pereira de Lucena, A. \(2017\) _Análisis de plataformas de participación ciudadana y comunidades digitales_. https://www.gitbook.com/book/alabs/doc-civictech-apps/details 
 
 ## Licencia
 
@@ -104,3 +104,22 @@ Se concede permiso para copiar, distribuir y/o modificar este documento bajo los
 
 
 {% include "./SUMMARY.md" %}
+
+
+## Criterios de autoría y cómo participar en este documento [^1]
+
+Este documento se abrirá a la participación. Podrás contribuir a este documento de varias formas diferentes. Excepto la función de edición el resto de las formas de participación y los niveles y criterios de autoría se especifican a continuación:
+
+* *Editor/a:* Se encarga de la monitorización del texto, sus versiones, correcciones, estructuración, etc. Puede coincidir o no con alguna de las autoras. Se trata, en definitiva de un/a coordinador/a de la colaboración del texto. Es función del editor/a solicitar las revisiones y leerlas.
+
+* *Autoras/es*: Son autoras/es quienes propiamente han redactado el texto. El orden de los autores refleja la contribución de los mismos siendo el primer nombre el de quien más ha escrito. El/la autor/a habrá leído y revisado el texto en su versión final o en versiones anteriores pero no tiene por qué estar de acuerdo con la configuración final del texto, labor que queda en manos del o la editora.
+
+* *Contribuidor/a*: Aquí pueden considerarse dos grupos de contribuidores. Por una parte, los y las revisoras académicas del documento (en caso de que su contribución sea considerable) y, por otra, colaboradores/as externos/as cuya contribución haya sido de valor y se haya consolidado en partes de texto incluidas en el documento. La diferencia entre contribuidor y autor queda en manos del editor o del resto de autores pero, en todo caso, la contribución debe ser menor a la del resto de autoras/es. Como regla general, si un autor ha escrito menos del 10% del texto debería considerarse contribuidor/a. A su vez, ser contribuidor/a requiere al menos haber escrito dos o tres párrafos.
+
+* *Participante*: Se trata de una persona que, sin haber contribuido con una parte de texto específica al documento, ha realizado contribuciones de valor, como comentarios pertinentes al mismo o ha proporcionado criterios, referencias o elementos de discusión valiosos.
+
+* *Revisor/a*: Esta labor incluye una lectura minuciosa de todo el texto, la corrección de errores y la propuesta de mejoras al mismo. Por lo general, es un trabajo por encargo (solicitado a una persona que se considera competente en la materia), aunque es posible que alguien contribuya haciendo una revisión sin solicitud expresa. En tal caso, la profundidad y calidad de la misma pueden calificar para considerar a esta persona revisora.
+
+[^1]: Esta división y especificación de niveles de autoría se ha copiado directamente de los criterios establecidos en el proyecto FLOK Society - Buen conocer (véase: Barandiaran et al. 2015, pp.38-39).)
+
+
