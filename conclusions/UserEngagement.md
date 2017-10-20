@@ -20,7 +20,7 @@ Your Priorities lo tiene en su plan de desarrollo. En el caso de Discourse inclu
 
 ![image alt text](image_10.png)
 
-**Figura D.2.11 (Anexo D.2 Loomio): **Emojis en comentarios
+**Figura D.2.11 (D.2 Loomio): **Emojis en comentarios
 
 [^1]: http://blog.oxforddictionaries.com/2015/11/word-of-the-year-2015-emoji/
 [^2]: https://www.google.es/trends/explore#q=emoji&date=1%2F2011%2072m&cmpt=q&tz=Etc%2FGMT-2

@@ -1,4 +1,4 @@
-## Anexo C.2 FixMyStreet 
+## C.2 FixMyStreet 
 
 ### ![image alt text](image_0.png)
 

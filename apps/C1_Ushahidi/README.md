@@ -1,4 +1,4 @@
-## Anexo C.1 Ushahidi
+## C.1 Ushahidi
 
 ![image alt text](image_0.png)
 

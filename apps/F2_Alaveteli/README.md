@@ -1,4 +1,4 @@
-## Anexo F.2 Alaveteli
+## F.2 Alaveteli
 
 ![image alt text](image_0.png)
 

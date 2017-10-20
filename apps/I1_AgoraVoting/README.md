@@ -1,4 +1,4 @@
-## Anexo I.1 Agora Voting
+## I.1 Agora Voting
 
 ![image alt text](image_0.png)
 

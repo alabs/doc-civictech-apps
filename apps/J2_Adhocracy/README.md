@@ -1,4 +1,4 @@
-## Anexo J.2 Adhocracy 
+## J.2 Adhocracy 
 
 ![image alt text](image_0.png)
 

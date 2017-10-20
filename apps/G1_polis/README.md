@@ -1,4 +1,4 @@
-## Anexo G.1 pol.is
+## G.1 pol.is
 
 ![image alt text](image_0.png)
 

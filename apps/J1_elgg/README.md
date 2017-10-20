@@ -1,4 +1,4 @@
-## Anexo J.1 Elgg
+## J.1 Elgg
 
 ### ![image alt text](image_0.png)
 

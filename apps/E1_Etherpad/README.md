@@ -1,4 +1,4 @@
-## Anexo E.1 Etherpad
+## E.1 Etherpad
 
 ![image alt text](image_0.png)
 

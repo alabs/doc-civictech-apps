@@ -1,4 +1,4 @@
-## Anexo A.1 Decidim
+## A.1 Decidim
 
 ![image alt text](image_0.png)
 

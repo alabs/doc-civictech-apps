@@ -1,4 +1,4 @@
-## Anexo D.2. Loomio 
+## D.2. Loomio 
 
 ### ![image alt text](image_0.png)
 

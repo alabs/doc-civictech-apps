@@ -44,7 +44,7 @@ Uno de los puntos fuertes para el proceso de deliberación puede ser permitir ag
 
 ![image alt text](image_12.png)
 
-**Figura H.1.11 (Anexo H.1 Your Priorities): **Página de noticias en ideas
+**Figura H.1.11 (H.1 Your Priorities): **Página de noticias en ideas
 
 ### 8. Permitir agregar documentos, imágenes y URLs a una propuesta
 
@@ -58,7 +58,7 @@ Por otra parte, en el caso de Discourse, esos contenidos iniciales son la propia
 
 ![image alt text](image_13.png)
 
-**Figura D.1.7 (Anexo D.1 Discourse):** Página principal con sesión de administrador iniciada
+**Figura D.1.7 (D.1 Discourse):** Página principal con sesión de administrador iniciada
 
 [^1]: http://ogp.me/
 [^2]: https://decide.madrid.es/proposals_info
