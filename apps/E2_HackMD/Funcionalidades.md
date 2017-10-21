@@ -42,7 +42,9 @@
 
 * El **editor** cuenta **con autocompletado** de ayuda de markdown de emojis, encabezados, imágenes, etc.
 
-* **Integra automáticamente contenido de sitios externos** \(YouTube, Vimeo, Gist, SlideShare y Speakerdeck\), formatos \(PDF\) y sintaxis en diferentes lenguajes \(MathJax, diagramas UML, diagramas de secuencia, gráficos de flujo, Graphviz, Mermaid, Abc\)
+* **Integra automáticamente contenido de sitios externos** \(YouTube, Vimeo, Gist, SlideShare y Speakerdeck\), formatos \(PDF\) y sintaxis en diferentes lenguajes \(MathJax, diagramas UML, diagramas de secuencia, gráficos de flujo, Graphviz, Mermaid, Abc\).
+
+* Incorpora la posibilidad de trabajar de forma fuera de línea \(_offline_\).
 
 Se trata por tanto de un aplicativo de elaboración de documentos de forma colaborativa y en tiempo real que incluye funcionalidades avanzadas como la que convierte los documentos en presentaciones o la inclusión de imágenes y emojis.
 
@@ -51,6 +53,4 @@ Destacan también otras funcionalidades innovadoras con respecto a otras herrami
 Sin embargo, al tratarse de un aplicativo reciente, que se encuentra aún en su fase inicial \(beta\) de desarrollo, no cuenta con soporte básico de confirmación de correo electrónico de usuarios, por lo tanto no cuenta con funcionalidades estándares como por ejemplo la de "ha olvidado su contraseña" y en su propia documentación se menciona que se encuentran en un estado inicial de desarrollo, por lo que se pueden encontrar errores de programación \(bugs\)
 
 Cuenta con imágenes docker para su instalación.
-
-
 
