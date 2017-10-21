@@ -8,6 +8,10 @@ Interfaz de programación de aplicaciones, abreviada como API \(del inglés: App
 
 Hace referencia a la estructura, funcionamiento e interacción entre las partes del software. La Arquitectura del Software es el diseño de más alto nivel de la estructura de un sistema.
 
+## **CDN** \(Content Delivery Network\)
+
+Una red de entrega de contenidos \(CDN, content delivery network en inglés\) es una red superpuesta de ordenadores que contienen copias de datos, colocados en varios puntos de una red distribuida geográficamente con el fin de maximizar el ancho de banda para el acceso a los datos de clientes por la red. Un cliente accede a una copia de la información cerca del cliente, en contraposición a todos los clientes que acceden al mismo servidor central, a fin de evitar embudos cerca de ese servidor.
+
 ## Contenedores de software
 
 Los contenedores de software son un conjunto de elementos que permiten ejecutar una aplicación determinada en cualquier sistema operativo. Se utilizan para garantizar que una determinada aplicación se ejecute correctamente cuando cambie su entorno, sin dar fallos de ningún tipo.
@@ -154,7 +158,7 @@ Al aplicar la programación modular, un problema complejo debe ser dividido en v
 
 ## Tecnopolítica
 
-La conceptualización de tecnopolítica surge del libro de Stefano Rodotà titulado _"Tecnopolitica. La democrazia e le nuove tecnologie della comunicazione"_ \([https://www.ibs.it/tecnopolitica-democrazia-nuove-tecnologie-della-libro-stefano-rodota/e/9788842072713](https://www.ibs.it/tecnopolitica-democrazia-nuove-tecnologie-della-libro-stefano-rodota/e/9788842072713)\) y se incorpora al contexto español en la obra titulada _"TECNOPOLÍTICA, INTERNET Y R-EVOLUCIONES. SOBRE LA CENTRALIDAD DE REDES DIGITALES EN EL \#\#15M\_"_  \([http://www.icariaeditorial.com/pdf\_libros/Tecnopolitica,%20internet%20y%20r-evoluciones.pdf](http://www.icariaeditorial.com/pdf_libros/Tecnopolitica, internet y r-evoluciones.pdf)\).
+La conceptualización de tecnopolítica surge del libro de Stefano Rodotà titulado _"Tecnopolitica. La democrazia e le nuove tecnologie della comunicazione"_ \([https://www.ibs.it/tecnopolitica-democrazia-nuove-tecnologie-della-libro-stefano-rodota/e/9788842072713](https://www.ibs.it/tecnopolitica-democrazia-nuove-tecnologie-della-libro-stefano-rodota/e/9788842072713)\) y se incorpora al contexto español en la obra titulada _"TECNOPOLÍTICA, INTERNET Y R-EVOLUCIONES. SOBRE LA CENTRALIDAD DE REDES DIGITALES EN EL \#\#15M\_"\_  \([http://www.icariaeditorial.com/pdf\_libros/Tecnopolitica,%20internet%20y%20r-evoluciones.pdf](http://www.icariaeditorial.com/pdf_libros/Tecnopolitica, internet y r-evoluciones.pdf)\).
 
 El término hace referencia al uso táctico y estratégico de las herramientas digitales para la organización, comunicación y acción colectiva. La capacidad de la multitudes conectadas, de los cerebros y cuerpos en red para crear y automodular la acción colectiva. \([https://tecnopoliticay15m.wordpress.com/2012/08/01/concepto-tecnopolitica/](https://tecnopoliticay15m.wordpress.com/2012/08/01/concepto-tecnopolitica/)\)
 
