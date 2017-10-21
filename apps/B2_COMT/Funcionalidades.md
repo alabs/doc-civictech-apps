@@ -12,5 +12,5 @@
 
 Como el resto de aplicativos de "comentario de texto", COMT tiene unas funcionalidades muy limitadas y específicas que no permiten abordar procesos de participación ciudadana globales o más amplios.
 
-No obstante, asl ser uno de los aplicativos de este tipo más antiguo ha sido utilizado en distintos procesos participativos como un elemento o herramienta más inter-relacionada con otros aplicativos.
+No obstante, al ser uno de los aplicativos de este tipo más antiguo ha sido utilizado en distintos procesos participativos como un elemento o herramienta más inter-relacionada con otros aplicativos o procesos.
 
