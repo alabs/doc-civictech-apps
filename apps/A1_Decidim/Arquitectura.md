@@ -1,6 +1,6 @@
 ### A.1.4 Arquitectura
 
-Consta de librerías y generadores de código hecho en el lenguaje Ruby con el framework Ruby on Rails. 
+Consta de librerías y generadores de código hechos en lenguaje Ruby con el framework Ruby on Rails. 
 
 Cuenta con soporte de internacionalización y adaptación de imagen gráfica. 
 
