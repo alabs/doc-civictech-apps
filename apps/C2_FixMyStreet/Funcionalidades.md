@@ -42,7 +42,7 @@ En caso de considerar interesante esta dinámica se puede contactar con la organ
 
 Ofrecen un servicio de pago \(NOTE:  [https://www.fixmystreet.com/about/council](https://www.fixmystreet.com/about/council)\) donde un municipio \(Council\) puede contratar los servicios de MySociety para tener adaptaciones del software, tanto a nivel de diseño \(imagen personalizada\) como con la conexión a los sistemas de control de incidencia que usa cada ciudad.
 
-En **conclusión**, se trata de un aplicativo muy específico para el envío y seguimiento de incidencias geolocalizadas.
+En definitiva, se trata de un aplicativo muy específico para el envío y seguimiento de incidencias geolocalizadas.
 
 Destaca la facilidad de uso y su diseño responsivo y adaptable, así como la documentación del aplicativo.
 
