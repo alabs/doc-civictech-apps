@@ -178,7 +178,7 @@ Herramienta para crear y configurar máquinas virtuales portables y reproducible
 
 ## Voto electrónico
 
-El voto electrónico se refiere a la emisión del voto utilizando medios electrónicos diferentes de los tradicionales, como el voto presencial en papel y el voto por correo.
+El voto electrónico se refiere a la emisión del voto utilizando medios electrónicos diferentes de los tradicionales voto presencial en papel y voto por correo.
 
 ## 
 
