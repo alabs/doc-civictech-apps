@@ -12,9 +12,11 @@
 
 * Existen **puntos físicos de recogida de apoyos**.
 
-
-
 Se trata por tanto de un aplicativo con unas funcionalidades muy concretas dirigidas a un tipo de acciones muy limitadas.
 
+Integra una modelización del proceso muy clara \(fases\) para la finalidad limitada del aplicativo.
+
 Destaca la funcionalidad de apoyarse en procesos 'físicos' para la recogida de apoyos.
+
+
 
