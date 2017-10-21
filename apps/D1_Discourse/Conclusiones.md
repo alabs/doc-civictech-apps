@@ -4,7 +4,7 @@ Se trata de un aplicativo que incopora una gran variedad de funcionalidades que 
 
 Esa  versatilidad y amplitud de las funcionalidades del aplicativo hacen que pueda ser usado en entornos muy diversos más allá de los estrictamente relacionados con la participación ciudadana.
 
-Al mismo tiempo, la amplitud y alcance de las funcionalidades del aplicativo pueden suponer una dificultad para integrarlo en procesos integrales de participación ciudadana.
+Al mismo tiempo, la amplitud y alcance de las funcionalidades del aplicativo pueden suponer una dificultad para integrarlo en procesos integrales de participación ciudadana, a los que puede, si acaso, complementar en el ámbito estricto del debate como uno de los componentes claves de dichos procesos.
 
 
 
