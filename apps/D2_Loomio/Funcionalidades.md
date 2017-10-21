@@ -10,6 +10,8 @@
 
 * Cuenta con sistema de **notificaciones**, tanto a través de la **web** como a través de **correo electrónico**.
 
+* Permite **cambiar **el **apoyo** que se le ha dado **a una propuesta**.
+
 * Utiliza el **formato Markdown** para sus hilos de discusión.
 
 * Cuenta con **paginación infinita** para la lectura del hilo.
@@ -20,7 +22,7 @@
 
 Se trata de un aplicativo para facilitar el debate en grupos y subgrupos, con posibilidad de realizar votaciones sobre las propuestas.
 
+Destaca la funcionalidad que permite cambiar el apoyo que se le ha dado a una propuesta, con el razonamiento de que en base a la discusión y deliberación de la misma se puede cambiar de opinión sobre el tema que se está debatiendo.
+
 Destaca por su amplia documentación lo que facilita su adopción por personas y grupos no necesariamente expertas en aplicativos informaticos.
-
-
 
