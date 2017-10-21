@@ -12,7 +12,7 @@
 
 * Permite **gestionar días festivos** con el fin de contabilizar correctamente la cantidad de días restantes para el cumplimiento de la ley.
 
-Aplicativo integrado en el ecosistema tecnológico de MySociety centrada en la gestión de solicitudes de liberación de información de los gobiernos.
+Aplicativo integrado en el ecosistema tecnológico de MySociety y centrado en la gestión de solicitudes de liberación de información de los gobiernos.
 
 Destaca la posibilidad de gestionar días festivos para la correcta aplicación de los plazos legalmente establecidos en los procesos de peticiones públicas.
 
