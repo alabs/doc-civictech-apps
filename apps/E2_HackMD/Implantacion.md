@@ -1,14 +1,6 @@
 ### E.2.3 Implantación
 
-No cuenta con soporte básico de confirmación de correo electrónico de usuarios, por lo tanto no cuenta con funcionalidades estándares como por ejemplo la de "ha olvidado su contraseña".
+Se trata de una aplicación aún en un estado de desarrollo inicial por lo que no cuenta con el nivel de implantación que tienen otras herramientas de su clase más antiguas y consolidadas.
 
-* En su propia documentación mencionan que se encuentran en un estado inicialde desarrollo[^1], por lo que se pueden encontrar errores de programación (bugs):
 
-*Tenga en cuenta que este servicio todavía está en una etapa temprana, y por lo tanto todavía tiene algunos problemas.*
 
-Cuenta con imágenes docker para su instalación[^2]. 
-
-Entre sus funcionalidades más destacadas se encuentran sus posibilidades de exportación e importación, desde múltiples servicios y formatos (Dropbox, Google Drive, Markdown, etc)
-
-[^1]: Texto original: Note that this service is still in an early stage, and thus still has some issues.)
-[^2]: https://github.com/hackmdio/docker-hackmd

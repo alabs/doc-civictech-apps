@@ -46,7 +46,11 @@
 
 Se trata por tanto de un aplicativo de elaboración de documentos de forma colaborativa y en tiempo real que incluye funcionalidades avanzadas como la que convierte los documentos en presentaciones o la inclusión de imágenes y emojis.
 
-Destacan también otras funcionalidades innovadoras con respecto a otras herramientas de su clase, como son la posibilidad de configurar automáticamente una tabla de contenidos o índices a partir del contenido introducido, o las de exportar/importar el resultado final a ficheros en local o compartirlos a través de Dropbox.
+Destacan también otras funcionalidades innovadoras con respecto a otras herramientas de su clase, como son la posibilidad de configurar automáticamente una tabla de contenidos o índices a partir del contenido introducido, o las de exportar/importar el resultado final a ficheros en local o compartirlos en múltiples formatos a través de servicios como Dropbox, Google Drive, Markdown, etc.
+
+Sin embargo, al tratarse de un aplicativo reciente, que se encuentra aún en su fase inicial \(beta\) de desarrollo, no cuenta con soporte básico de confirmación de correo electrónico de usuarios, por lo tanto no cuenta con funcionalidades estándares como por ejemplo la de "ha olvidado su contraseña" y en su propia documentación se menciona que se encuentran en un estado inicial de desarrollo, por lo que se pueden encontrar errores de programación \(bugs\)
+
+Cuenta con imágenes docker para su instalación.
 
 
 
