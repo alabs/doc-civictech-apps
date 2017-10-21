@@ -20,12 +20,6 @@
 
 * Por defecto, al cumplirse un mes del reporte, el sistema envía un cuestionario al usuario para que responda una encuesta actualizando el estado de la incidencia, donde puede cambiar su estado a "arreglado" \(fixed\), agregar una descripción o comentario o incluso subir una foto.[^3]
 
-Se trata de un aplicativo muy específico para el envío y seguimiento de incidencias geolocalizadas.
-
-Destaca la facilidad de uso y su diseño responsivo y adaptable, así como la documentación del aplicativo.
-
-Finalmente, incorpora funcionalidades innovadoras como la de poder dirigir los reportes a las personas responsables de su resolución así como la de establecer, por defecto, un sistema de feedback con el usuario a fin de mejorar el seguimiento y la resolución de las incidencias reportadas en el sistema.
-
 Para comprender el **flujo general de funcionamiento de la aplicación** se incluye el esquema y distintos servicios que entran en juego al producirse un reporte. Los pasos son:
 
 1. El usuario entra una localización, a través del código postal, nombre de calle o área. Se envía este texto y a través de un servicio externo de terceros se normaliza, convirtiéndolo a latitud y longitud \(Geocodificación\). Puede escogerse entre distintos servicios para realizar esta conversión: APIs de Open Streets Maps, Google Maps o Bing Maps.
@@ -44,15 +38,15 @@ En caso de considerar interesante esta dinámica se puede contactar con la organ
 
 ![](/assets/import2.png)
 
+**Figura C.2.3.1:** Flujo general de la aplicación
 
+Ofrecen un servicio de pago \(NOTE:  [https://www.fixmystreet.com/about/council](https://www.fixmystreet.com/about/council)\) donde un municipio \(Council\) puede contratar los servicios de MySociety para tener adaptaciones del software, tanto a nivel de diseño \(imagen personalizada\) como con la conexión a los sistemas de control de incidencia que usa cada ciudad.
 
+En **conclusión**, se trata de un aplicativo muy específico para el envío y seguimiento de incidencias geolocalizadas.
 
+Destaca la facilidad de uso y su diseño responsivo y adaptable, así como la documentación del aplicativo.
 
-
-
-jalskdjlaksjdlakjsdlkajlskd
-
-
+Finalmente, incorpora funcionalidades innovadoras como la de poder dirigir los reportes a las personas responsables de su resolución así como la de establecer, por defecto, un sistema de feedback con el usuario a fin de mejorar el seguimiento y la resolución de las incidencias reportadas en el sistema.
 
 [^2]: Open311 "A collaborative model and open standard for civic issue tracking" - [http://www.open311.org/](http://www.open311.org/). Un protocolo estándar para el reporte de incidencias no críticas por parte de la ciudadanía.
 
