@@ -4,7 +4,7 @@ Se ha realizado una selección de distintos aplicativos con dinámicas participa
 
 * Civic Stack ([http://www.civicstack.org/](http://www.civicstack.org/)); Herramientas de código abierto para acciones políticas y sociales. Creado por Democracia en Red y Asuntos del Sur. 
 
-* OGP Toolbox ([https://ogptoolbox.org/](https://ogptoolbox.org/)): Digital solutions to improve democracy. Creado por Open Government Partnership y Etalab. 
+* OGP Toolbox ([https://ogptoolbox.org/](https://ogptoolbox.org/)): Soluciones digitales para mejorar la democracia.. Creado por Open Government Partnership y Etalab. 
 
 Con el fin de facilitar la navegación por las distintas aplicaciones y su comparativa, se han categorizado según sus funcionalidades principales y dinámicas participativas más relevantes.
 
