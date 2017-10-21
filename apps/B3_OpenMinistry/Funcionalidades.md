@@ -18,5 +18,3 @@ Se trata por tanto de un aplicativo con unas funcionalidades muy concretas dirig
 
 Destaca la funcionalidad de apoyarse en procesos 'físicos' para la recogida de apoyos.
 
-
-
