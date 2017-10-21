@@ -12,6 +12,8 @@ Hace referencia a la estructura, funcionamiento e interacción entre las partes 
 
 Una red de entrega de contenidos \(CDN, content delivery network en inglés\) es una red superpuesta de ordenadores que contienen copias de datos, colocados en varios puntos de una red distribuida geográficamente con el fin de maximizar el ancho de banda para el acceso a los datos de clientes por la red. Un cliente accede a una copia de la información cerca del cliente, en contraposición a todos los clientes que acceden al mismo servidor central, a fin de evitar embudos cerca de ese servidor.
 
+CDN se configura como una solución al actual problema que presenta una web centralizada: lograr bajo tiempo de respuesta y mínima pérdida de información, moviendo el contenido de la información más cerca de los usuarios. El objetivo es lograr un equilibrio entre los costos en que incurren los proveedores de contenido web y la calidad de servicio para los usuarios finales.
+
 ## Contenedores de software
 
 Los contenedores de software son un conjunto de elementos que permiten ejecutar una aplicación determinada en cualquier sistema operativo. Se utilizan para garantizar que una determinada aplicación se ejecute correctamente cuando cambie su entorno, sin dar fallos de ningún tipo.
