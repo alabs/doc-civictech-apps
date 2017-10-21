@@ -6,9 +6,7 @@ Destaca la facilidad de uso y su diseño responsivo y adaptable, así como la do
 
 Destacan algunas funcionalidades innovadoras como la de poder dirigir los reportes \(o propuestas\) a las personas u organismos responsables de su resolución así como la de establecer, por defecto, un sistema de feedback con el usuario a fin de mejorar el seguimiento y la resolución de las incidencias reportadas en el sistema.
 
-
-
-
+Es un aplicativo que debería tomarse en cuanta para el caso de que se plantee su integración en las plataformas de participación ciudadana a nivel local.
 
 
 
