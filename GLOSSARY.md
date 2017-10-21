@@ -4,7 +4,7 @@ Las fuentes utilizadas para las definiciones contenidas en el glosario provienen
 
 Interfaz de programación de aplicaciones, abreviada como API \(del inglés: Application Programming Interface\),​ es un conjunto de subrutinas, funciones y procedimientos \(o métodos, en la programación orientada a objetos\) que ofrece cierta biblioteca para ser utilizado por otro software como una capa de abstracción.
 
-## Arquitectura
+## Arquitectura software
 
 Hace referencia a la estructura, funcionamiento e interacción entre las partes del software. La Arquitectura del Software es el diseño de más alto nivel de la estructura de un sistema.
 
@@ -14,7 +14,7 @@ Los contenedores de software son un conjunto de elementos que permiten ejecutar 
 
 ## CRUD
 
-XX
+Acrónimo de "Crear, Leer, Actualizar y Borrar" \(del original en inglés: Create, Read, Update and Drop \) que se usa para referirse a las funciones básicas en bases de datos o la capa de persistencia en un software.
 
 ## CSS
 
@@ -58,7 +58,7 @@ Plataformas libre de desarrollo colaborativo para alojar proyectos utilizando el
 
 ## GraphQL
 
-XX
+Lenguaje de consultas creado por Facebook en 2012 y liberado en 2015 que permite definir de una forma sencilla e independientes de la tecnología los datos que queremos que nos devuelva el servidor. Alternativa a REST.
 
 ## Groupware
 
@@ -80,9 +80,11 @@ iframe, por inline frame o marco incorporado en inglés, es un elemento HTML que
 
 JavaScript es un lenguaje de programación orientado a objetos basado en prototipos, imperativo, débilmente tipado y dinámico. Se utiliza principalmente en su forma del lado del cliente, implementado como parte de un navegador web permitiendo mejoras en la interfaz de usuario y páginas web dinámicas​ aunque existe una forma de JavaScript del lado del servidor\(Server-side JavaScript o SSJS\).
 
-## GNU Affero GPL v3
+## GNU Affero GPL v3 \(licencia\)
 
-XX
+Licencia pública general de Affero \(en inglés, Affero General Public License, también Affero GPL o AGPL\) es una licencia copyleft derivada de la Licencia Pública General de GNU diseñada específicamente para asegurar la cooperación con la comunidad en el caso de software que corra en servidores de red. La Affero GPL es íntegramente una GNU GPL con una cláusula nueva que añade la obligación de distribuir el software si éste se ejecuta para ofrecer servicios a través de una red de ordenadores.
+
+La Free Software Foundation recomienda que el uso de la GNU AGPLv3 sea considerado para cualquier software que usualmente corra sobre una red
 
 ## Lenguaje de marcado
 
@@ -114,7 +116,7 @@ Boletín informativo que se elabora y distribuye de forma regular entre los usua
 
 ## Ruby
 
-XX 
+Ruby es un lenguaje de programación interpretado, reflexivo y orientado a objetos, creado por el programador japonés Yukihiro "Matz" Matsumoto, quien comenzó a trabajar en Ruby en 1993, y lo presentó públicamente en 1995. Es un lenguaje de programación interpretado en una sola pasada y su implementación oficial es distribuida bajo una licencia de software libre.
 
 ## Ruby on Rails
 
@@ -152,7 +154,7 @@ Al aplicar la programación modular, un problema complejo debe ser dividido en v
 
 ## Tecnopolítica
 
-La conceptualización de tecnopolítica surge del libro de Stefano Rodotà titulado *"Tecnopolitica. La democrazia e le nuove tecnologie della comunicazione"* ([https://www.ibs.it/tecnopolitica-democrazia-nuove-tecnologie-della-libro-stefano-rodota/e/9788842072713](https://www.ibs.it/tecnopolitica-democrazia-nuove-tecnologie-della-libro-stefano-rodota/e/9788842072713)) y se incorpora al contexto español en la obra titulada *"TECNOPOLÍTICA, INTERNET Y R-EVOLUCIONES. SOBRE LA CENTRALIDAD DE REDES DIGITALES EN EL \##15M_"*  ([http://www.icariaeditorial.com/pdf\_libros/Tecnopolitica,%20internet%20y%20r-evoluciones.pdf](http://www.icariaeditorial.com/pdf_libros/Tecnopolitica, internet y r-evoluciones.pdf)).
+La conceptualización de tecnopolítica surge del libro de Stefano Rodotà titulado _"Tecnopolitica. La democrazia e le nuove tecnologie della comunicazione"_ \([https://www.ibs.it/tecnopolitica-democrazia-nuove-tecnologie-della-libro-stefano-rodota/e/9788842072713](https://www.ibs.it/tecnopolitica-democrazia-nuove-tecnologie-della-libro-stefano-rodota/e/9788842072713)\) y se incorpora al contexto español en la obra titulada _"TECNOPOLÍTICA, INTERNET Y R-EVOLUCIONES. SOBRE LA CENTRALIDAD DE REDES DIGITALES EN EL \#\#15M\_"_  \([http://www.icariaeditorial.com/pdf\_libros/Tecnopolitica,%20internet%20y%20r-evoluciones.pdf](http://www.icariaeditorial.com/pdf_libros/Tecnopolitica, internet y r-evoluciones.pdf)\).
 
 El término hace referencia al uso táctico y estratégico de las herramientas digitales para la organización, comunicación y acción colectiva. La capacidad de la multitudes conectadas, de los cerebros y cuerpos en red para crear y automodular la acción colectiva. \([https://tecnopoliticay15m.wordpress.com/2012/08/01/concepto-tecnopolitica/](https://tecnopoliticay15m.wordpress.com/2012/08/01/concepto-tecnopolitica/)\)
 
@@ -160,7 +162,11 @@ El término hace referencia al uso táctico y estratégico de las herramientas d
 
 UML es un "lenguaje de modelado" o conjunto estandarizado de símbolos y de modos de disponerlos que facilita el diseño de software permitiendo especificar y  describir métodos o procesos. Se utiliza para visualizar, especificar, construir y documentar un sistema.
 
-## Vagrant 
+## **User Engagement**
+
+Hace referencia a una mayor y mejorada participación del usuario.
+
+## Vagrant
 
 Herramienta para crear y configurar máquinas virtuales portables y reproducibles, de manera automática.
 
@@ -168,5 +174,7 @@ Herramienta para crear y configurar máquinas virtuales portables y reproducible
 
 El voto electrónico se refiere a la emisión del voto utilizando medios electrónicos diferentes de los tradicionales, como el voto presencial en papel y el voto por correo.
 
+## 
 
-**XX User Engagement**
+
+
