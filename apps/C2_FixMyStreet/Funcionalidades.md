@@ -10,7 +10,7 @@
 
 * Permite **actualizar la situación del problema reportado**, introduciendo los cambios que se hayan producido y, finalmente, marcar la incidencia como resuelta.
 
-* Cuenta con **diseño responsivo y adaptable** a distintos formatos \(móvil, tablet, etc.\) 
+* Cuenta con **diseño responsivo y adaptable** a distintos formatos \(móvil, tablet, etc.\)
 
 * **Cuenta con aplicación móvil** tanto para Android como para iOS \(iPhone\).
 
@@ -20,13 +20,27 @@
 
 * Por defecto, al cumplirse un mes del reporte, el sistema envía un cuestionario al usuario para que responda una encuesta actualizando el estado de la incidencia, donde puede cambiar su estado a "arreglado" \(fixed\), agregar una descripción o comentario o incluso subir una foto.[^3]
 
-
-
 Se trata de un aplicativo muy específico para el envío y seguimiento de incidencias geolocalizadas.
 
 Destaca la facilidad de uso y su diseño responsivo y adaptable, así como la documentación del aplicativo.
 
 Finalmente, incorpora funcionalidades innovadoras como la de poder dirigir los reportes a las personas responsables de su resolución así como la de establecer, por defecto, un sistema de feedback con el usuario a fin de mejorar el seguimiento y la resolución de las incidencias reportadas en el sistema.
+
+Para comprender el **flujo general de funcionamiento de la aplicación** se incluye el esquema y distintos servicios que entran en juego al producirse un reporte. Los pasos son:
+
+1. El usuario entra una localización, a través del código postal, nombre de calle o área. Se envía este texto y a través de un servicio externo de terceros se normaliza, convirtiéndolo a latitud y longitud \(Geocodificación\). Puede escogerse entre distintos servicios para realizar esta conversión: APIs de Open Streets Maps, Google Maps o Bing Maps.
+
+2. El usuario pone un marcador en el mapa, precisando la latitud y longitud.
+
+3. Por último el usuario selecciona la categoría a la que pertenece la incidencia y se produce un reporte que es enviado al organismo correspondiente.
+
+4. Dicha correspondencia se realiza a través del servicio web externo MapIt, que convierte la latitud y longitud en un área administrativa, donde se encuentran los entes gubernamentales que a su vez tienen una serie de contactos separados en categorías. Los destinatarios finales pueden tener configurado un método de contacto, que por defecto es el correo electrónico, pero también puede conectarse a un servicio externo de registro de incidencias cívicas \(Open311\).
+
+Viendo los ejemplos de la Figura, se puede observar que hay cinco áreas \(2209, 2231, 2976, 3012, 3113\) que corresponden con cinco entes \(_"Red District Council", "Green District Council", "Blue Town Council", "Yellow Village Council"_ y _"Orange Town Council"_\), cuatro categorías \(_"Broken bench", "Graffiti", "Oil spillage" \_y _"Pothole"\_\) y seis contactos relacionados entre las categorías y entes. Así, por ejemplo para la combinación de categoría "Oil spillage" con el ente "Red District Council", se debe enviar al correo electrónico "roads@red.gov". Esto es similar para el resto de entes, siendo la excepción el "Orange Town Council" cuyo método de envío \("send\_method"\) no cuenta con la opción por defecto \(valor "NULL"\) sino con el servicio externo "Open311".
+
+A nivel municipal en el estado español se puede encontrar una experiencia similar, el Mapa de Quejas y Sugerencias del Ayuntamiento de Zaragoza[^1]. También el Ajuntament de Barcelona cuenta con un mecanismo para que la ciudadanía comunique incidencias, la Bústia Ciutadana[^2], pero no son comunicadas públicamente.
+
+En caso de considerar interesante esta dinámica se puede contactar con la organización MySociety para ver sus servicios ofrecidos.
 
 
 
