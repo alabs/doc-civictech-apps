@@ -42,5 +42,5 @@ Cuenta con una API[^4] dónde aplicaciones externas pueden crear preguntas, idea
 
 * creando una aplicación en cualquier lenguaje que se comunica con la API a través del protocolo HTTP.
 
-
+A nivel de integración se recomienda estudiar el aplicativo pairwise-api[^8] en caso de considerarlo interesante para algún proceso que cuente con cientos o miles de propuestas que deban priorizarse.
 
