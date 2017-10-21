@@ -52,7 +52,7 @@ Uno de los puntos fuertes para el proceso de deliberación puede ser permitir ag
 
 ### ~~8. Permitir agregar documentos, imágenes y URLs a una propuesta~~
 
-~~Una funcionalidad útil todavía no desarrollada es la posibilidad de agregar tanto imágenes como documentos de forma adjunta a una propuesta o a un comentario. Se puede ver un ejemplo de esta funcionalidad en el uso de adjuntos de Loomio. ~~
+~~~~Una funcionalidad útil todavía no desarrollada es la posibilidad de agregar tanto imágenes como documentos de forma adjunta a una propuesta o a un comentario. Se puede ver un ejemplo de esta funcionalidad en el uso de adjuntos de Loomio.~~ ~~
 
 PROPUESTA REPETIDA \(VER PROPUESTA 1\) ... HE INTEGRADO AMBAS PROPUESTAS EN LA Nº 1. Habría que renumerar las prouestas a partir dde aquí.
 
