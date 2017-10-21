@@ -30,7 +30,9 @@ En el caso de Decidim, esos principios se resumen en compromisos con:
 
 * Mejora continua y colaboración interinstitucional.
 
-El propio re-diseño de Decidim a partir del aplicativo Consul ha permitido  la integración de funcionalidades tomadas de otros aplicativos más específicos haciendo de la plataforma una de las más completas y robustas de su clase amén de que, por su conceptualización modular,  facilita la incoroporación de nuevas funcionalidades al mismo.
+El propio re-diseño de Decidim a partir del aplicativo Consul ha permitido  la integración de funcionalidades tomadas de otros aplicativos más específicos haciendo de la plataforma una de las más completas y robustas de su clase amén de que, por su arquitectura  modular,  facilita la incoroporación de nuevas funcionalidades al mismo.
+
+Finalmente, cabe destacar que Decidim facilita la integración de procesos on-line y off-line \(presencial\) no sólo por el diseño y amplias funcionalidades que incorpora sino, fundamentalmente, por el propio 'espiritu' del aplicativo que apela a la ciudadanía usuaria a participar y comprometerse con el desarrollo de innovadores modelos de gobernanza que afectan tanto a la propia herramienta como a los procesos de participación ciudadana a los que sirve.
 
 
 
