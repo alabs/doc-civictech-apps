@@ -1,80 +1,82 @@
-### D.1.2 Funcionalidades 
+### D.1.2 Funcionalidades
 
-* Conversaciones continuadas en la misma página (sin paginación)
+* **Conversaciones** continuadas en la misma página \(**sin paginación**\)
 
-* Notificaciones al recibir menciones o respuestas en publicaciones
+* **Notificaciones** al recibir menciones o respuestas en publicaciones
 
-* Interfaz simple con todas las publicaciones de la misma conversación ordenadas cronológicamente y a su vez permitiendo guardar el anidado de las respuestas
+* **Interfaz simple** con todas las publicaciones de la misma conversación ordenadas cronológicamente y a su vez permitiendo guardar el anidado de las respuestas
 
-* Diseño adaptado a portátiles, tablets y móviles
+* Diseño **adaptado a portátiles, tablets y móviles**
 
-* Al agregar un enlace en un post se expande automáticamente dando información contextual de forma similar a como lo hacen en Facebook y Twitter. 
+* Al agregar un **enlace** en un post se **expande automáticamente **dando **información contextual **de forma similar a como lo hacen en Facebook y Twitter.
 
-* Inicio de sesión único permitiendo integrar Discourse con el registro de usuarios de otros sistemas  
+* **Inicio de sesión único** permitiendo integrar Discourse con el registro de usuarios de otros sistemas. **Inicio de sesión a través** de Google, Facebook, Twitter, Yahoo, GitHub, y otras **redes sociales comunes.**
 
-* Los usuarios pueden obtener más permisos a traveś de un sistema de confianza y dependiendo de las acciones que vayan realizando. 
+* Los **usuarios** pueden obtener más **permisos** a traveś de un sistema de confianza y dependiendo de las acciones que vayan realizando.
 
-* Moderación a demanda de la comunidad
+* **Moderación** a demanda de la comunidad
 
-* Protecciones anti-spam heurísticas y a través del servicio externo de Akismet  
+* **Protecciones anti-spam** heurísticas y a través del servicio externo de Akismet
 
-* Inicio de sesión a través de Google, Facebook, Twitter, Yahoo, GitHub, y otras redes sociales comunes 
+* **Resumen automático de posts largos** mostrando solo los más interesantes y populares
 
-* Resumen automático de posts largos mostrando solo los más interesantes y populares 
+* **Insignias**: promueve los comportamientos positivos de la comunidad a través de insignias por defecto a ciertas acciones \(por ejemplo al reportar una publicación, al realizar máś de 10 publicaciones, al darle cierta cantidad de likes, etc.\). Se pueden definir insignias nuevas.
 
-* Insignias: promueve los comportamientos positivos de la comunidad a través de insignias por defecto a ciertas acciones (por ejemplo al reportar una publicación, al realizar máś de 10 publicaciones, al darle cierta cantidad de likes, etc.). Se pueden definir insignias nuevas. 
+* **Emoji**: cuenta con cuatro diferentes conjuntos y se pueden definir Emojis propios.
 
-* Emoji: cuenta con cuatro diferentes conjuntos y se pueden definir Emojis propios. 
+* Permite responder/participar por **correo electrónico**.
 
-* Responder por correo electrónico. 
+* **API exhaustiva**. Por su propia arquitectura, al ser una aplicación Javascript, todos los contenidos mostrados se consiguen a través de una API.
 
-* API exhaustiva. Por su propia arquitectura, al ser una aplicación Javascript, todos los contenidos mostrados se consiguen a través de una API. 
+* **Actualizaciones en un click** a través del administrador web.
 
-* Actualizaciones en un click a través del administrador web.
+* Traducido a** 25 idiomas**
 
-* Traducido a 25 idiomas
+* **Optimizado para SEO** para indexación por buscadores
 
-* Optimizado para SEO para indexación por buscadores 
+* **Distintas opciones de formateo** en las publicaciones: Markdown, BBCode, y formateo HTML
 
-* Distintas opciones de formateo en las publicaciones: Markdown, BBCode, y formateo HTML
+* **Backups automáticos**
 
-* Backups automáticos 
+* **Soporte para CDN** \(Content Delivery Network\)
 
-* Soporte para CDN (Content Delivery Network) 
+* **Avatares**
 
-* Avatares
+* Uso del **correo electrónico** para: 
 
-* Invitaciones por correo electrónico 
+  * **Invitaciones.**
 
-* Soporte para listas de correo
+  * **Listas de correo.**
 
-* Publicación anónima
+  * **Notificaciones.**
 
-* Adjunto de ficheros
+* **Publicación anónima**
 
-* Encuestas embebidas
+* **Adjunto de ficheros**
 
-* Notificaciones de escritorio y alertas a los usuarios de acciones
+* **Encuestas** embebidas
 
-* Autoguardado de borradores  
+* **Notificaciones** de escritorio y alertas a los usuarios de acciones
 
-* Historial de revisión de publicaciones
+* **Autoguardado de borradores**
 
-* Mensajería privada
+* **Historial de revisión** de publicaciones
 
-* Subida de imágenes a través de arrastrar y soltar 
+* **Mensajería privada**
 
-* Edición colaborativa de publicaciones (wiki)  
+* Subida de imágenes a través de arrastrar y soltar
 
-* Moderación en masa de publicaciones 
+* Edición colaborativa de publicaciones \(**wiki**\)
 
-* Espacios privados
+* **Moderación en masa** de publicaciones
 
-* Panel de control de estadísticas  
+* **Espacios privados**
 
-* Moderación previa (por aprobación manual)  de publicaciones 
+* Panel de control de **estadísticas**
 
-* Posibilidad de promocionar las publicaciones ("pin")
+* Moderación previa \(por aprobación manual\)  de publicaciones
+
+* Posibilidad de promocionar las publicaciones \("pin"\)
 
 * Seguimiento de enlaces de entrada y salida
 
