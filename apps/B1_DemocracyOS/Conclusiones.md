@@ -4,3 +4,7 @@ Carece de funcionalidades 'integrales' que impiden usar la plataforma más allá
 
 Al tratarse de un aplicativo el tipo "Comentario de texto" sus funcionalidades están limitadas a procesos de participación orientados a alcanzar consensos amplios, mediante el debate y votación de textos.
 
+En definitiva, DemocracyOS serviría como mucho para abordar sólo una parte de lo que entendemos como procesos de participación ciudadana amplios,
+
+
+
