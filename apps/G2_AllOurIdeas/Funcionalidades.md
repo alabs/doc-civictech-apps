@@ -8,7 +8,7 @@
 
 * Permite cerrar una encuesta para que pueda accederse sólo con una **contraseña compartida**.
 
-* **Personalización**: permite agregar un logo así como configurar un mensaje de bienvenida diferente para cada encuesta. 
+* **Personalización**: permite agregar un logo así como configurar un mensaje de bienvenida diferente para cada encuesta.
 
 * Soporta **multilenguaje granular** para cada encuesta.
 
@@ -25,6 +25,14 @@
 * Los **votos** son **ilimitados**: cada usuario puede votar todas las veces que quiera.
 
 * Cuenta con **apoyo académico** por parte del **Departamento de Sociología de la Universidad de Princeton**.
+
+
+
+Se trata de un aplicativo que incorpora el método de la comparación a pares \(pair-wise comparison[^1]\), donde se comparan múltiples opciones para ver cual es la preferida.
+
+Entre los múltiples beneficios que tienen este tipo de procesos es el de evitar el efecto arrastre o bandwagon[^2], en el que las personas al ver múltiples opciones terminan escogiendo las que tienen mayor aceptación.
+
+Otro punto positivo de este tipo de procesos es que dificulta que el mismo sea cooptado por un lobby o grupo de presión organizado, como ha ocurrido en el proceso de Open for Questions organizado por la Casa Blanca \(Administración de Barack Obama\), cuya pregunta más votada ha sido sobre la legalización de la marihuana, ya que la National Organization for the Reform of Marijuana Laws \(NORML\) ha movilizado a sus simpatizantes para que voten por dicha temática. En el caso de las votaciones con el método de comparación a pares, estos usuarios deberían pasar por muchas otras opciones antes de llegar a la que su organización les ha llamado a votar.
 
 
 
