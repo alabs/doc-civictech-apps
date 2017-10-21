@@ -20,5 +20,7 @@
 
 Se trata de un aplicativo para facilitar el debate en grupos y subgrupos, con posibilidad de realizar votaciones sobre las propuestas.
 
-Destaca por su amplia documentación lo que facilita su adopción.
+Destaca por su amplia documentación lo que facilita su adopción por personas y grupos no necesariamente expertas en aplicativos informaticos.
+
+
 
