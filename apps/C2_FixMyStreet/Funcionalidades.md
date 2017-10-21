@@ -42,7 +42,17 @@ A nivel municipal en el estado español se puede encontrar una experiencia simil
 
 En caso de considerar interesante esta dinámica se puede contactar con la organización MySociety para ver sus servicios ofrecidos.
 
-![](/assets/import.png)
+![](/assets/import2.png)
+
+
+
+
+
+
+
+jalskdjlaksjdlakjsdlkajlskd
+
+
 
 [^2]: Open311 "A collaborative model and open standard for civic issue tracking" - [http://www.open311.org/](http://www.open311.org/). Un protocolo estándar para el reporte de incidencias no críticas por parte de la ciudadanía.
 
