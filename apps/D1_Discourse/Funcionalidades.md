@@ -2,7 +2,7 @@
 
 * **Conversaciones** continuadas en la misma página \(**sin paginación**\)
 
-* **Notificaciones** al recibir menciones o respuestas en publicaciones
+* Sistema de **notificaciones** y alertas de forma granular \(por categorías, por hilos, sólo cuando se mencione al usuario, en ningún momento, etc\)
 
 * **Interfaz simple** con todas las publicaciones de la misma conversación ordenadas cronológicamente y a su vez permitiendo guardar el anidado de las respuestas
 
@@ -77,6 +77,24 @@
 * Posibilidad de promocionar las publicaciones \("**pin**"\)
 
 * Seguimiento de enlaces de entrada y salida
+
+* **Versatilidad** a través de ĺas configuraciones de su administración
+
+* **Extensión** a través de **plugins** creados por la comunidad
+
+* **Personalización de la interfaz a alto nivel** \(colores y tipografías\) y a bajo nivel \(HTML, CSS, Javascript\)
+
+* **Instalación** automatizada a través de imágenes **docker**
+
+* Sistema de backups integrado en el sistema
+
+* API de todo el sistema
+
+* Estadísticas en el administrador
+
+* Memoria de que publicaciones ha leído cada usuario
+
+Se trata pues de uno de los aplicativos que cuenta con más funcionalidades, destacando aquellas orientadas la versatilidad en la configuración global y granular, así como la facilidad de instalación a través de imágenes docker.
 
 
 
