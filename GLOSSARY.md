@@ -160,9 +160,9 @@ Al aplicar la programación modular, un problema complejo debe ser dividido en v
 
 ## Tecnopolítica
 
-La conceptualización de tecnopolítica surge del libro de Stefano Rodotà titulado _"Tecnopolitica. La democrazia e le nuove tecnologie della comunicazione"_ \([https://www.ibs.it/tecnopolitica-democrazia-nuove-tecnologie-della-libro-stefano-rodota/e/9788842072713](https://www.ibs.it/tecnopolitica-democrazia-nuove-tecnologie-della-libro-stefano-rodota/e/9788842072713)\) y se incorpora al contexto español en la obra titulada _"TECNOPOLÍTICA, INTERNET Y R-EVOLUCIONES. SOBRE LA CENTRALIDAD DE REDES DIGITALES EN EL \#\#15M\_"\_  \([http://www.icariaeditorial.com/pdf\_libros/Tecnopolitica,%20internet%20y%20r-evoluciones.pdf](http://www.icariaeditorial.com/pdf_libros/Tecnopolitica, internet y r-evoluciones.pdf)\).
-
 El término hace referencia al uso táctico y estratégico de las herramientas digitales para la organización, comunicación y acción colectiva. La capacidad de la multitudes conectadas, de los cerebros y cuerpos en red para crear y automodular la acción colectiva. \([https://tecnopoliticay15m.wordpress.com/2012/08/01/concepto-tecnopolitica/](https://tecnopoliticay15m.wordpress.com/2012/08/01/concepto-tecnopolitica/)\)
+
+La conceptualización de tecnopolítica surge del libro de Stefano Rodotà titulado _"Tecnopolitica. La democrazia e le nuove tecnologie della comunicazione"_ \([https://www.ibs.it/tecnopolitica-democrazia-nuove-tecnologie-della-libro-stefano-rodota/e/9788842072713](https://www.ibs.it/tecnopolitica-democrazia-nuove-tecnologie-della-libro-stefano-rodota/e/9788842072713)\) y se incorpora al contexto español en la obra titulada _"TECNOPOLÍTICA, INTERNET Y R-EVOLUCIONES. SOBRE LA CENTRALIDAD DE REDES DIGITALES EN EL \#\#15M\_"\_  \([http://www.icariaeditorial.com/pdf\_libros/Tecnopolitica,%20internet%20y%20r-evoluciones.pdf](http://www.icariaeditorial.com/pdf_libros/Tecnopolitica, internet y r-evoluciones.pdf)\).
 
 ## UML
 
