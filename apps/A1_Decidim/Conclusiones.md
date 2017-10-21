@@ -1,6 +1,6 @@
 ### A.1.6 Conclusiones
 
-Además de las amplias e integrales funcionalidades señaladas en el apartado correspondiente, Decidim destaca fundamentalmente por incorporar dos aspectos claramente diferenciales respecto al resto de aplicativos analizados:
+Además de las amplias funcionalidades integradas, Decidim destaca fundamentalmente por incorporar dos aspectos claramente diferenciales respecto al resto de aplicativos analizados:
 
 **MetaDecidim**:
 
@@ -11,8 +11,6 @@ A través del proceso MetaDecidim se ha puesto en marcha una colaboración trans
 El proceso incluye distintos ejes de trabajo/participación, que mantienen reuniones periódicas y canales de comunicación permanentes, en los que se abordan participativamente los siguientes aspectos: Investigación, Modelo de Gobernanza, Tecnología, Relato y Experiencia de Participante \(UX\)
 
 En definitiva, Metadecidim implica que es la ciudadanía usuaria de la plataforma la que, en colaboración con la comunidad abierta de desarrolladores, decide en todo momento sobre las cuestiones clave tanto de la plataforma como de la modelización de los procesos participativos a los que se destina.
-
-
 
 **Contrato Social**:
 
@@ -31,6 +29,8 @@ En el caso de Decidim, esos principios se resumen en compromisos con:
 * Compromiso y responsabilidad.
 
 * Mejora continua y colaboración interinstitucional.
+
+El propio re-diseño de Decidim a partir del aplicativo Consul ha permitido  la integración de funcionalidades tomadas de otros aplicativos más específicos haciendo de la plataforma una de las más completas y robustas de su clase amén de que, por su conceptualización modular,  facilita la incoroporación de nuevas funcionalidades al mismo.
 
 
 
