@@ -94,5 +94,5 @@
 
 * Memoria de que publicaciones ha leído cada usuario
 
-Se trata pues de uno de los aplicativos que cuenta con más funcionalidades, destacando aquellas orientadas la versatilidad en la configuración global y granular, el sistema de backups automatizado, así como la facilidad de instalación a través de imágenes docker y otras características que hacen de este aplicativo uno de los más ambiciosos.
+Se trata pues de uno de los aplicativos que cuenta con más funcionalidades, destacando aquellas orientadas la versatilidad en la configuración global y granular, el sistema de backups automatizado, así como la facilidad de instalación a través de imágenes docker y otras características que hacen de este aplicativo uno de los más ambiciosos en su género.
 
