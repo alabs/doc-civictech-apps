@@ -96,3 +96,7 @@
 
 Se trata pues de uno de los aplicativos que cuenta con más funcionalidades, destacando aquellas orientadas la versatilidad en la configuración global y granular, el sistema de backups automatizado, así como la facilidad de instalación a través de imágenes docker y otras características que hacen de este aplicativo uno de los más ambiciosos en su género.
 
+Las amplias funcionalidades del aplicativo hacen que pueda ser usuado en entornos muy diversos más allá de los estrictamente relacionados con la participación ciudadana.
+
+
+
