@@ -42,7 +42,7 @@
 
 * **Avatares**
 
-* Uso del **correo electrónico** para: 
+* Uso del **correo electrónico** para:
 
   * **Invitaciones.**
 
@@ -68,15 +68,13 @@
 
 * Edición colaborativa de publicaciones \(**wiki**\)
 
-* **Moderación en masa** de publicaciones
+* Permite la **moderación en masa** y la **moderación previa** \(por aprobación manual\)  de publicaciones.
 
 * **Espacios privados**
 
 * Panel de control de **estadísticas**
 
-* Moderación previa \(por aprobación manual\)  de publicaciones
-
-* Posibilidad de promocionar las publicaciones \("pin"\)
+* Posibilidad de promocionar las publicaciones \("**pin**"\)
 
 * Seguimiento de enlaces de entrada y salida
 
