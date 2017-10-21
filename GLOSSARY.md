@@ -170,7 +170,7 @@ UML es un "lenguaje de modelado" o conjunto estandarizado de símbolos y de modo
 
 ## **User Engagement**
 
-Hace referencia a una mayor y mejorada participación del usuario y a la facilidad de uso del aplicativo en cuestión por sus usuarios, lo que comporta una mayor fidelización.
+Hace referencia a una mayor y mejor participación  y a la facilidad de uso del aplicativo en cuestión por sus usuarios, lo que en última instancia puede comportar una mayor fidelización.
 
 ## Vagrant
 
