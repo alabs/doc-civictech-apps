@@ -40,7 +40,7 @@ En Your Priorities se ve claramente cuando un usuario aporta argumentos a favor 
 
 ### 6. Mejoras en la interfaz de anotación de textos
 
-Comparando la interfaz de anotación de textos entre lo que se tiene en Consul y en otras herramientas especializadas en eso se puede ver bastante diferencia en la usabilidad y visualización de las mismas.
+Incorporar mejoras en la interfaz de anotción de textos para acercarla a interfaces más avanzadas como la de Consul y en otras herramientas especializadas mejorando así  la usabilidad y visualización de las mismas.
 
 ### 7. Permitir agregar noticias a una propuesta
 
