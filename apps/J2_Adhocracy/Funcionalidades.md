@@ -2,6 +2,8 @@
 
 * Permite tener distintas **instancias o grupos de trabajo independientes**.
 
+* Permite cambiar su imagen gráfica a través de **temas**.
+
 * Permite crear **propuestas** y **debatirlas a través de comentarios**.
 
 * Permite **iniciar sesión con Yahoo o con el estándar OpenID**.
