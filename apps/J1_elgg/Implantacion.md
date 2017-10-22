@@ -4,6 +4,7 @@ Es una red social que permite configurarse de forma privada o pública y cuya or
 
 Cuenta con una amplia aceptación e implantación en comunidades y colctivos sociales. Puede verse un amplio listado de implantaciones en su sitio web: https://elgg.org/showcase?filter=all
 
+--*** A PARTIR DE AQUÍ LLEVAR A FUNCIONALIDADES ***--
 Con fines documentales, la siguiente tabla cuenta con los plugins con los que viene instalado por defecto, su descripción (en inglés y castellano) y el estado por defecto (si se encuentra o no activo). 
 
 <table>
