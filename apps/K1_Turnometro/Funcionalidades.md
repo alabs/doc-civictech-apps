@@ -14,9 +14,11 @@
 
 Aplicativo orientado exclusivamente a la gestión de turnos y tiempos de intervención en asambleas de forma visual y simple.
 
+Turnómetro surge de la experiencia previa del movimiento **Wikipolítica** en **México. L**a  experiencia en  procesos  políticos  y  tecnológicos  de  este  joven grupo los llevó a considerar que "el camino hacia consensos no puede acelerar procesos de votación antes de discusiones diversas, ni tampoco puede pasar por alto las emociones y relaciones del grupo".
+
 Destaca la funcionalidad de reporte final que permite evaluar la participación de las participantes.
 
 Al ser una web estática \(sin programación a nivel de servidor\) es fácilmente integrable en otras aplicaciones.
 
-Turnómetro surge de la experiencia previa del movimiento **Wikipolítica** en **México. L**a  experiencia en  procesos  políticos  y  tecnológicos  de  este  joven grupo los llevó a considerar que "el camino hacia consensos no puede acelerar procesos de votación antes de discusiones diversas, ni tampoco puede pasar por alto las emociones y relaciones del grupo".
+
 
