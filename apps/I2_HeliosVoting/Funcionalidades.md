@@ -30,7 +30,7 @@
 
 * Permite localizar la papeleta electoral y confirmar que se haya emitido el voto
 
-Aplicativo de votación electrónica que sigue la linea de Agora Voting.
+Aplicativo de votación electrónica que sigue la linea de Agora Voting aunque cuenta con menos funcionalidades.
 
 El autor original, Ben Adida, es un investigador de la universidad Harvard, donde ha publicado varios artículos académicos sobre voto online encriptado[^1].
 
