@@ -56,9 +56,5 @@
 
 Se trata de un aplicativo de voto electrónico muy versatil y flexible.
 
-Destacan las funcionalidades que permiten la configurción de censo abierto o cerrado así como las opciones de escrutinio.
-
-
-
-
+Destacan las funcionalidades que permiten la configurción de censo abierto o cerrado así como las opciones de escrutinio y las capas de seguridad que incorpora.
 
