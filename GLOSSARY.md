@@ -130,7 +130,7 @@ Boletín informativo que se elabora y distribuye de forma regular entre los usua
 
 Open311 petende ser un esfuerzo internacional para construir sistemas abiertos e interoperables que permitan a los ciudadanos interactuar más directamente con sus gobiernos locales.
 
-Es una tecnología que proporciona canales abiertos de comunicación para temas que conciernen al espacio y  servicios públicos. Principalmente, Open311 se refiere a un protocolo estandarizado para el seguimiento de problemas colaborativo basado en la ubicación. 
+Es una tecnología que proporciona canales abiertos de comunicación para temas que conciernen al espacio y  servicios públicos. Principalmente, Open311 se refiere a un protocolo estandarizado para el seguimiento de problemas colaborativo basado en la ubicación.
 
 ## Participación ciudadana
 
@@ -166,6 +166,10 @@ El servicio de mensajes cortos o servicio de mensajes simples, más conocido com
 
 El simple Mail Transfer Protocol \(SMTP\) o "protocolo para transferencia simple de correo", es un protocolo de red utilizado para el intercambio de mensajes de correo electrónico entre computadoras u otros dispositivos.
 
+## Socket
+
+Socket designa un concepto abstracto por el cual dos programas pueden intercambiar cualquier flujo de datos de manera fiable y ordenada. Los sockets de Internet constituyen el mecanismo para la entrega de paquetes de datos provenientes de la tarjeta de red a los procesos apropiados. Un socket queda definido por un par de direcciones IP local y remota, un protocolo de transporte y un par de números de puerto local y remoto.
+
 ## Software modular - Programación modular
 
 Software modular hace referencia a aquel software desarrollado bajo los principios de la programación modular.
@@ -195,6 +199,10 @@ Herramienta para crear y configurar máquinas virtuales portables y reproducible
 ## Voto electrónico
 
 El voto electrónico se refiere a la emisión del voto utilizando medios electrónicos diferentes de los tradicionales voto presencial en papel y voto por correo.
+
+## Websocket
+
+WebSocket es una tecnología que proporciona un canal de comunicación bidireccional y full-duplex sobre un único socket TCP. Está diseñada para ser implementada en navegadores y servidores web, pero puede utilizarse por cualquier aplicación cliente/servidor. La API de WebSocket está siendo normalizada por el W3C, mientras que el protocolo WebSocket ya fue normalizado por la IETF como el RFC 6455
 
 ## 
 
