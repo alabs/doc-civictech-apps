@@ -22,7 +22,7 @@
   * Debatido en el Parlamento
   * No debatido en el Parlamento
 
-Aplicativo limitado a la creación de propuestas para recabar apoyos que permitan a la propuesta un recorrido legal.
+Aplicativo limitado a la creación de propuestas para recabar apoyos que permitan a la propuesta un recorrido legal en el ámbito del Parlamento británico.
 
 Es llamativo el sistema de verificación de apoyos, una serie de comprobaciones e invalidaciones que, por ejemplo, permite contabilizar apoyos geolocalizados por rangos de  direcciones IP.
 
