@@ -16,7 +16,7 @@
 
 El aplicativo forma parte del proyecto europeo d-cent, que ha desarrollado la "nueva generación de herramientas de código abierto, distribuidas y conscientes con la privacidad para la democracia directa y empoderamiento económico"[^4].
 
-Aplicativo para facilitar el debate de ideas y la toma de posicion mediante el voto de las mismas.
+No cuenta con forma documentada de realizar personalizaciones, así como tampoco cuenta con una comunidad amplia de desarrolladores ni otras instalaciones conocidas actualmente.
 
 Destacan las funcionalidades relativas a la posibilidad de servir a distintas comunidades en la misma instalación así como la posibilidad de geolocalizar las ideas o propuestas además de agrager noticias y fotos a los debates.
 
