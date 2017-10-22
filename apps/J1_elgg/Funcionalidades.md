@@ -14,5 +14,13 @@
 
 * Cuenta con un **panel de administración con distintas posibilidades**: estadísticas, gestión de usuarios, registro de acciones de usuarios, activación de modo de mantenimiento, moderación de contenidos reportados por usuarios, gestión de los menús superiores, agregar campos de usuarios, gestión de widgets, gestión de plugins, etc.
 
+* Funciona a través de plugins, algunos de los cuales vienen activados en la instalación por defecto.
+
 Se trata de un aplicativo para la organización y el trabajo en grupos en forma de red social,  flexible y adaptable, que cuenta con numerosas herramientas integradas y unas funcionalidades de administración muy completas y granulares.
+
+Permite tener varias funcionalidades asociadas tanto a un usuario como a un grupo: Blog \(Bitácora\), Enlaces \(Bookmarks\), Foros, Ficheros, Páginas, etc.
+
+Gran parte de la navegación gira alrededor de la última actividad de la plataforma. Por ejemplo, la URL /activity es la primera acción que ve un usuario al iniciar sesión
+
+
 

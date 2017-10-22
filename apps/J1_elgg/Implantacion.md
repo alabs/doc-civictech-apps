@@ -1,14 +1,6 @@
 ### J.1.3 Implantación
 
-Es una red social que permite configurarse de forma privada o pública y cuya 
-
-organización está basada en los Grupos.
-
-Funciona a través de plugins, algunos de los cuales vienen activados en la instalación por defecto
-
-Permite tener varias funcionalidades asociadas tanto a un usuario como a un grupo: Blog (Bitácora), Enlaces (Bookmarks), Foros, Ficheros, Páginas, etc. 
-
-Gran parte de la navegación gira alrededor de la última actividad de la plataforma. Por ejemplo, la URL /activity es la primera acción que ve un usuario al iniciar sesión
+Es una red social que permite configurarse de forma privada o pública y cuya organización está basada en los Grupos.
 
 Con fines documentales, la siguiente tabla cuenta con los plugins con los que viene instalado por defecto, su descripción (en inglés y castellano) y el estado por defecto (si se encuentra o no activo). 
 
