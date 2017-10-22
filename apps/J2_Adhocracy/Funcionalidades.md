@@ -24,7 +24,5 @@
 
 Aplicativo de debate y votación que destaca por la posibilidad de visualización de las diferencias entre enmiendas, lo que facilita la lectura de las diferencias entre las distintas versiones propuestas.
 
-
-
-
+Actualmente no cuenta con un desarrollo activo más allá de tareas de mantenimiento.
 
