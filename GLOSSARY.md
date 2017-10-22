@@ -74,6 +74,10 @@ Software colaborativo o groupware se refiere al conjunto de programas informáti
 
 HTML, sigla en inglés de HyperText Markup Language \(lenguaje de marcas de hipertexto\), hace referencia al lenguaje para la elaboración de páginas web. Es un estándar a cargo del World Wide Web Consortium \(W3C\) o Consorcio WWW, organización dedicada a la estandarización de las tecnologías ligadas a la web.
 
+## HTML5
+
+Quinta revisión importante del lenguaje básico de la World Wide Web, HTML. HTML5 establece una serie de nuevos elementos y atributos que reflejan el uso típico de los sitios web actuales.
+
 ## HTTP
 
 Protocolo de comunicación que permite las transferencias de información en la World Wide Web.
@@ -120,17 +124,17 @@ Arquitectura de software en la cual una sola instancia de la aplicación se ejec
 
 Boletín informativo que se elabora y distribuye de forma regular entre los usuarios de un sistema con el fin de mantenerlos informados sobre las novedades del mismo.
 
-## Ruby
+## Open311
 
-Ruby es un lenguaje de programación interpretado, reflexivo y orientado a objetos, creado por el programador japonés Yukihiro "Matz" Matsumoto, quien comenzó a trabajar en Ruby en 1993, y lo presentó públicamente en 1995. Es un lenguaje de programación interpretado en una sola pasada y su implementación oficial es distribuida bajo una licencia de software libre.
+3-1-1 es un número de teléfono especial usado en muchas comunidades de Canadá y Estados Unidos. El número proporciona acceso a los servicios municipales que no son de emergencia.
 
-## Ruby on Rails
+Open311 petende ser un esfuerzo internacional para construir sistemas abiertos e interoperables que permitan a los ciudadanos interactuar más directamente con sus gobiernos locales.
 
-Ruby on Rails o Rails, es un framework de aplicaciones web de código abierto escrito en el lenguaje de programación Ruby, siguiendo el paradigma del patrón Modelo Vista Controlador \(MVC\). El lenguaje de programación Ruby permite la metaprogramación, de la cual Rails hace uso, lo que resulta en una sintaxis que muchos de sus usuarios encuentran muy legible. Rails se distribuye a través de RubyGems, que es el formato oficial de paquete y canal de distribución de bibliotecas y aplicaciones Ruby.
+Es una tecnología que proporciona canales abiertos de comunicación para temas que conciernen al espacio y  servicios públicos. Principalmente, Open311 se refiere a un protocolo estandarizado para el seguimiento de problemas colaborativo basado en la ubicación. 
 
 ## Participación ciudadana
 
-Hacer referencia al conjunto de mecanismos para que la ciudadanía acceda a las decisiones de gobierno de manera independiente y sin necesidad de formar parte de la administración pública o de un partido político.
+Hace referencia al conjunto de mecanismos para que la ciudadanía acceda a las decisiones de gobierno de manera independiente y sin necesidad de formar parte de la administración pública o de un partido político.
 
 La participación ciudadana es considerada hoy en día como una pieza fundamental de los sistemas democráticos avanzados.
 
@@ -145,6 +149,18 @@ En informática y telecomunicaciones un protocolo de comunicaciones es un sistem
 ## REST
 
 Describe cualquier interfaz entre sistemas que utilice directamente HTTP para obtener datos o indicar la ejecución de operaciones sobre los datos, en cualquier formato.
+
+## Ruby
+
+Ruby es un lenguaje de programación interpretado, reflexivo y orientado a objetos, creado por el programador japonés Yukihiro "Matz" Matsumoto, quien comenzó a trabajar en Ruby en 1993, y lo presentó públicamente en 1995. Es un lenguaje de programación interpretado en una sola pasada y su implementación oficial es distribuida bajo una licencia de software libre.
+
+## Ruby on Rails
+
+Ruby on Rails o Rails, es un framework de aplicaciones web de código abierto escrito en el lenguaje de programación Ruby, siguiendo el paradigma del patrón Modelo Vista Controlador \(MVC\). El lenguaje de programación Ruby permite la metaprogramación, de la cual Rails hace uso, lo que resulta en una sintaxis que muchos de sus usuarios encuentran muy legible. Rails se distribuye a través de RubyGems, que es el formato oficial de paquete y canal de distribución de bibliotecas y aplicaciones Ruby.
+
+## SMS
+
+El servicio de mensajes cortos o servicio de mensajes simples, más conocido como SMS \(por las siglas del inglés Short Message Service\), es un servicio disponible en los teléfonos móviles que permite el envío de mensajes cortos, conocidos como mensajes de texto​ entre teléfonos móviles.
 
 ## SMTP
 
