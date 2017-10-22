@@ -14,6 +14,8 @@
 
 * Cuenta con un **panel de administración con distintas posibilidades**: estadísticas, gestión de usuarios, registro de acciones de usuarios, activación de modo de mantenimiento, moderación de contenidos reportados por usuarios, gestión de los menús superiores, agregar campos de usuarios, gestión de widgets, gestión de plugins, etc.
 
+Se trata de un aplicativo para la organización y el trabajo en grupos, flexible y adaptable, que cuenta con numerosas herramientas integradas y unas funcionalidades de administración muy completas y granulares.
+
 
 
 
