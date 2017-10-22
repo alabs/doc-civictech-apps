@@ -11,6 +11,7 @@
 * Comprueba en el asistente de creación de propuestas si hay propuestas similares a la creada para **evitar duplicaciones**.
 
 * Hay varias listas de peticiones que **permiten ver los distintos estados **por los que pueden pasar:
+
   * Todas las peticiones
   * Peticiones abiertas
   * Peticiones cerradas
@@ -25,5 +26,5 @@ Aplicativo limitado a la creación de propuestas para recabar apoyos que permita
 
 Es llamativo el sistema de verificación de apoyos, una serie de comprobaciones e invalidaciones que, por ejemplo, permite contabilizar apoyos geolocalizados por rangos de  direcciones IP.
 
-
+No cuenta con soporte para personalización a nivel de imagen, ni textos.
 
