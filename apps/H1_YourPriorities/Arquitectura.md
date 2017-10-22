@@ -2,38 +2,33 @@
 
 Se trata de una aplicación web hecha con nodeJS y el framework javascript para frontend Polymer.
 
-Esta se trata de la tercera versión: 
+El analisis se ha realizado sobre la tercera versión:
 
-* **Open Active Democracy**[^1]: de 2009 a 2012. Hecha con Ruby on Rails. 
+* **Open Active Democracy**[^1]: de 2009 a 2012. Hecha con Ruby on Rails.
 
-* **Your Priorities**[^2]: de 2013 a 2016. Hecha con Ruby on Rails. 
+* **Your Priorities**[^2]: de 2013 a 2016. Hecha con Ruby on Rails.
 
-* **Your Priorities App**[^3]: desde 2016. Hecha con NodeJS. 
+* **Your Priorities App**[^3]: desde 2016. Hecha con NodeJS.
 
-A nivel de documentación no cuenta con una explicación exhaustiva de cómo proceder con la instalación inicial. Siguiendo los pasos detallados en el fichero README del proyecto[^4], se concluye la instalación con el siguiente mensaje de error:  
+A nivel de documentación no cuenta con una explicación exhaustiva de cómo proceder con la instalación inicial. Siguiendo los pasos detallados en el fichero README del proyecto[^4], se concluye la instalación con el siguiente mensaje de error:
 
-*$ ./start*
+_$ ./start_
 
-*(...)*
+_\(...\)_
 
-* at Function.Promise.bind (/home/ubuntu/your-priorities-app/node_modules/bluebird/js/release/bind.js:65:20)*
+* at Function.Promise.bind \(/home/ubuntu/your-priorities-app/node\_modules/bluebird/js/release/bind.js:65:20\)\*
 
-*Executing (default): SELECT "id", "name", "hostname", "access", "deleted", "default_locale", "google_analytics_code", "description", "website", "ip_address", "user_agent", "weight", "status", "counter_posts", "counter_points", "counter_groups", "counter_users", "counter_organizations", "only_admins_can_create_groups", "theme_id", "other_social_media_info", "configuration", "created_at", "updated_at", "domain_id", "user_id" FROM "communities" AS "Community" WHERE "Community"."hostname" = 'yrpri.compas' AND "Community"."deleted" = false LIMIT 1;*
+_Executing \(default\): SELECT "id", "name", "hostname", "access", "deleted", "default\_locale", "google\_analytics\_code", "description", "website", "ip\_address", "user\_agent", "weight", "status", "counter\_posts", "counter\_points", "counter\_groups", "counter\_users", "counter\_organizations", "only\_admins\_can\_create\_groups", "theme\_id", "other\_social\_media\_info", "configuration", "created\_at", "updated\_at", "domain\_id", "user\_id" FROM "communities" AS "Community" WHERE "Community"."hostname" = 'yrpri.compas' AND "Community"."deleted" = false LIMIT 1;_
 
-*[2017-08-30T16:27:16.309Z]  WARN: your-priorities/1523 on dev-yourpriorities:*
+_\[2017-08-30T16:27:16.309Z\]  WARN: your-priorities/1523 on dev-yourpriorities:_
 
-*	Cant find community { user: null,*
+* Cant find community { user: null,\*
 
-*  	context: 'setYpCommunity',*
+* context: 'setYpCommunity',\*
 
-*  	err: 'Community not found',*
+* err: 'Community not found',\*
 
-*  	errorStatus: 404 }*
+* errorStatus: 404 }\*
 
 Al no conseguir instalarlo en un servidor propio y no contar con documentación que recomiende un proceso de despliegue, no se ha podido instalar y analizar la arquitectura del aplicativo.
 
-
-[^1]: https://github.com/rbjarnason/open-active-democracy 
-[^2]: https://github.com/rbjarnason/your-priorities 
-[^3]: https://github.com/rbjarnason/your-priorities-app/
-[^4]: https://github.com/rbjarnason/your-priorities-app/ 
