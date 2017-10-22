@@ -32,5 +32,5 @@
 
 Aplicativo de votación electrónica que sigue la linea de Agora Voting.
 
-
+El autor original, Ben Adida, es un investigador de la universidad Harvard, donde ha publicado varios artículos académicos sobre voto online encriptado[^1].
 
