@@ -272,7 +272,7 @@ Cuenta con 129 tablas:
 
 **Figura D.1.5.1:** Tablas de la base de datos de Discourse
 
- ![image alt text](image_3.png)
+![image alt text](image_3.png)
 
 **Figura D.1.5.2:** Tablas de la base de datos de Discourse
 

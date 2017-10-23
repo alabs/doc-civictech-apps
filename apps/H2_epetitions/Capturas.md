@@ -66,7 +66,7 @@ Conseguir 5 apoyos más a una propuesta para su publicación
 
 **Figura H.2.7.16:** Otros listados de peticiones
 
- ![image alt text](image_25.png)
+![image alt text](image_25.png)
 
 **Figura H.2.7.17:** Administrador: formulario de inicio de sesión
 

@@ -13,9 +13,9 @@ A nivel de servidores recomiendan la siguiente configuración:
 
 * Servidor SMTP
 
- ![image alt text](image_1.png)
+![image alt text](image_1.png)
 
-**Figura B.3.4.1: **Esquema a nivel de servidores de Open Ministry
+**Figura B.3.4.1:** Esquema a nivel de servidores de Open Ministry
 
 
 

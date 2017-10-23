@@ -26,7 +26,7 @@ Cuenta con 8 tablas:
 
 #### E.2.5.3 Gráficos UML
 
- ![image alt text](image_2.png)
+![image alt text](image_2.png)
 
 **Figura E.2.5.1:** Tablas de la base de datos de hackmd
 

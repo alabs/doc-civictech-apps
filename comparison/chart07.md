@@ -128,7 +128,7 @@ En el cuadro se han resaltado  los aplicativos que no cuenten con un mínimo de 
 </table>
 
 
- ![image alt text](image_7.png)
+![image alt text](image_7.png)
 
 **Figura 6:** Cantidad de versiones de cada aplicativo estudiado en este informe
 

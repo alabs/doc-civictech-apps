@@ -70,24 +70,24 @@ Cuenta con 30 tablas:
 
 #### B.3.5.2 Gráficos UML
 
- ![image alt text](image_2.png)
+![image alt text](image_2.png)
 
-**Figura B.3.5.1: **Tablas de la base de datos de Open Ministry
+**Figura B.3.5.1:** Tablas de la base de datos de Open Ministry
 
 ![image alt text](image_3.png)
 
-**Figura B.3.5.2: **Tablas de la base de datos de Open Ministry
+**Figura B.3.5.2:** Tablas de la base de datos de Open Ministry
 
 ![image alt text](image_4.png)
 
-**Figura B.3.5.3: **Tablas de la base de datos de Open Ministry
+**Figura B.3.5.3:** Tablas de la base de datos de Open Ministry
 
 ![image alt text](image_5.png)
 
-**Figura B.3.5.4: **Tablas de la base de datos de Open Ministry
+**Figura B.3.5.4:** Tablas de la base de datos de Open Ministry
 
 ![image alt text](image_6.png)
 
-**Figura B.3.5.5: **Tablas de la base de datos de Open Ministry
+**Figura B.3.5.5:** Tablas de la base de datos de Open Ministry
 
 

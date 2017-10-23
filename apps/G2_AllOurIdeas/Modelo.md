@@ -98,7 +98,7 @@ Cuenta con 19 tablas:
 
 ##### pairwise-api
 
- ![image alt text](image_4.png)
+![image alt text](image_4.png)
 
 **Figura G.2.5.3: **Esquema de la base de datos de pairwise-api
 

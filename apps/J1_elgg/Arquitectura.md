@@ -4,7 +4,7 @@ A nivel de Arquitectura cuenta con varias similitudes con Decidim, al ser un fra
 
 Su instalación es relativamente sencilla, al requerir un servidor web que soporte PHP y MySQL. 
 
- ![image alt text](image_1.png)
+![image alt text](image_1.png)
 
 **Figura J.1.4.1:** Esquema de arquitectura de servicios de Elgg
 
