@@ -7,11 +7,11 @@
   </tr>
   <tr>
     <td>URL</td>
-    <td>https://yrpri.org/ </td>
+    <td><a href="https://yrpri.org/">https://yrpri.org/</a> </td>
   </tr>
   <tr>
     <td>URL repositorio</td>
-    <td>https://github.com/rbjarnason/your-priorities-app/ </td>
+    <td><a href="https://github.com/rbjarnason/your-priorities-app/">https://github.com/rbjarnason/your-priorities-app/</a> </td>
   </tr>
   <tr>
     <td>Resumen (Inglés)</td>
