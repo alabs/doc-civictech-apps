@@ -7,11 +7,11 @@
   </tr>
   <tr>
     <td>URL</td>
-    <td>http://agoravoting.org </td>
+    <td><a href="http://agoravoting.org">http://agoravoting.org</a> </td>
   </tr>
   <tr>
     <td>URL repositorio</td>
-    <td>https://github.com/agoravoting </td>
+    <td><a href="https://github.com/agoravoting">https://github.com/agoravoting</a> </td>
   </tr>
   <tr>
     <td>Resumen (Inglés)</td>
