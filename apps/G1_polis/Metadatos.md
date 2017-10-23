@@ -7,11 +7,11 @@
   </tr>
   <tr>
     <td>URL</td>
-    <td>https://pol.is </td>
+    <td><a href="https://pol.is">https://pol.is</a> </td>
   </tr>
   <tr>
     <td>URL repositorio</td>
-    <td>https://github.com/pol-is </td>
+    <td><a href="https://github.com/pol-is">https://github.com/pol-is</a> </td>
   </tr>
   <tr>
     <td>Resumen (Inglés)</td>
