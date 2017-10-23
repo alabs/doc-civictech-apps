@@ -7,11 +7,11 @@
   </tr>
   <tr>
     <td>URL</td>
-    <td>https://www.mysociety.org/democracy/pombola/</td>
+    <td><a href="https://www.mysociety.org/democracy/pombola/">https://www.mysociety.org/democracy/pombola/</a></td>
   </tr>
   <tr>
     <td>URL repositorio</td>
-    <td>https://github.com/mysociety/pombola </td>
+    <td><a href="https://github.com/mysociety/pombola">https://github.com/mysociety/pombola</a> </td>
   </tr>
   <tr>
     <td>Resumen (Inglés)</td>
