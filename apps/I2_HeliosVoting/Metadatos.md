@@ -7,11 +7,11 @@
   </tr>
   <tr>
     <td>URL</td>
-    <td>https://heliosvoting.org/ </td>
+    <td><a href="https://heliosvoting.org/">https://heliosvoting.org/</a> </td>
   </tr>
   <tr>
     <td>URL repositorio</td>
-    <td>https://github.com/benadida/helios-server </td>
+    <td><a href="https://github.com/benadida/helios-server">https://github.com/benadida/helios-server</a> </td>
   </tr>
   <tr>
     <td>Resumen (Inglés)</td>
