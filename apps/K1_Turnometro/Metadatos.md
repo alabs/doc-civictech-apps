@@ -7,11 +7,11 @@
   </tr>
   <tr>
     <td>URL</td>
-    <td>http://turnometro.org/ </td>
+    <td><a href="http://turnometro.org/">http://turnometro.org/</a> </td>
   </tr>
   <tr>
     <td>URL repositorio</td>
-    <td>https://github.com/elzr/Turnometro </td>
+    <td><a href="https://github.com/elzr/Turnometro">https://github.com/elzr/Turnometro</a> </td>
   </tr>
   <tr>
     <td>Resumen (Inglés)</td>
