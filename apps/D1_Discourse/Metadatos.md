@@ -7,11 +7,11 @@
   </tr>
   <tr>
     <td>URL</td>
-    <td>https://www.discourse.org/ </td>
+    <td><a href="https://www.discourse.org/">https://www.discourse.org/</a></td>
   </tr>
   <tr>
     <td>URL repositorio</td>
-    <td>https://github.com/discourse/discourse </td>
+    <td><a href="https://github.com/discourse/discourse">https://github.com/discourse/discourse</a> </td>
   </tr>
   <tr>
     <td>Resumen (Inglés)</td>

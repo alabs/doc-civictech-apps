@@ -7,11 +7,11 @@
   </tr>
   <tr>
     <td>URL</td>
-    <td>http://openministry.info/</td>
+    <td><a href="http://openministry.info/">http://openministry.info/</a></td>
   </tr>
   <tr>
     <td>URL repositorio</td>
-    <td>https://github.com/avoinministerio/avoinministerio </td>
+    <td><a href="https://github.com/avoinministerio/avoinministerio">https://github.com/avoinministerio/avoinministerio</a></td>
   </tr>
   <tr>
     <td>Resumen (Inglés)</td>
