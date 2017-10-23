@@ -11,52 +11,52 @@ Es utilizada por distintos ayuntamientos españoles, como el de Oviedo, A Coruñ
   <tr>
     <td>Decide Madrid</td>
     <td>Madrid, España</td>
-    <td>https://decide.madrid.es/</td>
+    <td><a href="https://decide.madrid.es/">https://decide.madrid.es/</a></td>
   </tr>
   <tr>
     <td>Decide Oviedo</td>
     <td>Oviedo, España</td>
-    <td>http://www.consultaoviedo.es/</td>
+    <td><a href="http://www.consultaoviedo.es/">http://www.consultaoviedo.es/</a></td>
   </tr>
   <tr>
     <td>A Porta Aberta</td>
     <td>A Coruña, España</td>
-    <td>https://aportaaberta.coruna.es/?locale=es</td>
+    <td><a href="https://aportaaberta.coruna.es/">https://aportaaberta.coruna.es/</a></td>
   </tr>
   <tr>
     <td>decidimVLC</td>
     <td>Valencia, España</td>
-    <td>https://decidimvlc.valencia.es/</td>
+    <td><a href="https://decidimvlc.valencia.es/">https://decidimvlc.valencia.es/</a></td>
   </tr>
   <tr>
     <td>Participa Calvià</td>
     <td>Calvià, España</td>
-    <td>https://www.participacalvia.es/</td>
+    <td><a href="https://www.participacalvia.es/">https://www.participacalvia.es/</a></td>
   </tr>
   <tr>
     <td>Benalmádena</td>
     <td>Benalmádena, España</td>
-    <td>https://participa.benalmadena.es/</td>
+    <td><a href="https://participa.benalmadena.es/">https://participa.benalmadena.es/</a></td>
   </tr>
   <tr>
     <td>Web de Participación Ciudadana</td>
     <td>Carreño, España</td>
-    <td>https://decide.carreno.es/</td>
+    <td><a href="https://decide.carreno.es/">https://decide.carreno.es/</a></td>
   </tr>
   <tr>
     <td>DecidimCastelló</td>
     <td>Castelló, España</td>
-    <td>https://decidim.castello.es/</td>
+    <td><a href="https://decidim.castello.es/">https://decidim.castello.es/</a></td>
   </tr>
   <tr>
     <td>Chiloeches</td>
     <td>Chiloeches, España</td>
-    <td>https://decide.aytochiloeches.es/</td>
+    <td><a href="https://decide.aytochiloeches.es/">https://decide.aytochiloeches.es/</a></td>
   </tr>
   <tr>
     <td>Participa Getafe</td>
     <td>Getafe, España</td>
-    <td>https://participa.getafe.es/</td>
+    <td><a href="https://participa.getafe.es/">https://participa.getafe.es/</a></td>
   </tr>
   <tr>
     <td>BA Elige</td>

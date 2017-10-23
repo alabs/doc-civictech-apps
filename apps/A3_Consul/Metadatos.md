@@ -7,11 +7,11 @@
   </tr>
   <tr>
     <td>URL</td>
-    <td>http://www.decide.es/ </td>
+    <td><a href="http://www.decide.es/">http://www.decide.es/</a> </td>
   </tr>
   <tr>
     <td>URL repositorio</td>
-    <td>https://github.com/consul/consul/ </td>
+    <td><a href="https://github.com/consul/consul/">https://github.com/consul/consul/</a> </td>
   </tr>
   <tr>
     <td>Resumen (Inglés)</td>
