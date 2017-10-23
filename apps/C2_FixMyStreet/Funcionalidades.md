@@ -32,7 +32,7 @@ Para comprender el **flujo general de funcionamiento de la aplicación** se incl
 
 Viendo los ejemplos de la Figura, se puede observar que hay cinco áreas \(2209, 2231, 2976, 3012, 3113\) que corresponden con cinco entes \(_"Red District Council", "Green District Council", "Blue Town Council", "Yellow Village Council"_ y _"Orange Town Council"_\), cuatro categorías \(_"Broken bench", "Graffiti", "Oil spillage" \_y _"Pothole"\_\) y seis contactos relacionados entre las categorías y entes. Así, por ejemplo para la combinación de categoría "Oil spillage" con el ente "Red District Council", se debe enviar al correo electrónico "roads@red.gov". Esto es similar para el resto de entes, siendo la excepción el "Orange Town Council" cuyo método de envío \("send\_method"\) no cuenta con la opción por defecto \(valor "NULL"\) sino con el servicio externo "Open311".
 
-A nivel municipal en el estado español se puede encontrar una experiencia similar, el Mapa de Quejas y Sugerencias del Ayuntamiento de Zaragoza[^1]. También el Ajuntament de Barcelona cuenta con un mecanismo para que la ciudadanía comunique incidencias, la Bústia Ciutadana[^2], pero no son comunicadas públicamente.
+A nivel municipal en el estado español se puede encontrar una experiencia similar, el Mapa de Quejas y Sugerencias del Ayuntamiento de Zaragoza[^4]. También el Ajuntament de Barcelona cuenta con un mecanismo para que la ciudadanía comunique incidencias, la Bústia Ciutadana[^5], pero no son comunicadas públicamente.
 
 En caso de considerar interesante esta dinámica se puede contactar con la organización MySociety para ver sus servicios ofrecidos.
 
@@ -40,7 +40,7 @@ En caso de considerar interesante esta dinámica se puede contactar con la organ
 
 **Figura C.2.3.1:** Flujo general de la aplicación
 
-Ofrecen un servicio de pago \(NOTE:  [https://www.fixmystreet.com/about/council](https://www.fixmystreet.com/about/council)\) donde un municipio \(Council\) puede contratar los servicios de MySociety para tener adaptaciones del software, tanto a nivel de diseño \(imagen personalizada\) como con la conexión a los sistemas de control de incidencia que usa cada ciudad.
+Ofrecen un servicio de pago[^6] donde un municipio \(Council\) puede contratar los servicios de MySociety para tener adaptaciones del software, tanto a nivel de diseño \(imagen personalizada\) como con la conexión a los sistemas de control de incidencia que usa cada ciudad.
 
 En definitiva, se trata de un aplicativo muy específico para el envío y seguimiento de incidencias geolocalizadas.
 
@@ -48,5 +48,15 @@ Destaca la facilidad de uso y su diseño responsivo y adaptable, así como la do
 
 Finalmente, incorpora funcionalidades innovadoras como la de poder dirigir los reportes a las personas responsables de su resolución así como la de establecer, por defecto, un sistema de feedback con el usuario a fin de mejorar el seguimiento y la resolución de las incidencias reportadas en el sistema.
 
+
+[^1]: http://fixmystreet.org/overview/
+
 [^2]: Open311 "A collaborative model and open standard for civic issue tracking" - [http://www.open311.org/](http://www.open311.org/). Un protocolo estándar para el reporte de incidencias no críticas por parte de la ciudadanía.
 
+[^3]: http://fixmystreet.org/running/surveys/
+
+[^4]: http://www.zaragoza.es/ciudadania/gobierno-abierto/participar/enlace/servicios/mapa-quejas-y-sugerencias.html
+
+[^5]: https://w10.bcn.cat/StpQueixesWEB/prepararFormularioBtoB.do?i=c&ambit=tescolta
+
+[^6]: https://www.fixmystreet.com/about/council
