@@ -7,11 +7,11 @@
   </tr>
   <tr>
     <td>URL</td>
-    <td>https://www.fixmystreet.com/ </td>
+    <td><a href="https://www.fixmystreet.com/">https://www.fixmystreet.com/</a> </td>
   </tr>
   <tr>
     <td>URL repositorio</td>
-    <td>https://github.com/mysociety/fixmystreet </td>
+    <td><a href="https://github.com/mysociety/fixmystreet">https://github.com/mysociety/fixmystreet</a> </td>
   </tr>
   <tr>
     <td>Resumen (Inglés)</td>
