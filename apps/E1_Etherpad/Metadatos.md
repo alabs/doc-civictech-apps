@@ -7,11 +7,11 @@
   </tr>
   <tr>
     <td>URL</td>
-    <td>http://etherpad.org/ </td>
+    <td><a href="http://etherpad.org/">http://etherpad.org/</a> </td>
   </tr>
   <tr>
     <td>URL repositorio</td>
-    <td>https://github.com/ether/etherpad-lite </td>
+    <td><a href="https://github.com/ether/etherpad-lite">https://github.com/ether/etherpad-lite</a> </td>
   </tr>
   <tr>
     <td>Resumen (Inglés)</td>
