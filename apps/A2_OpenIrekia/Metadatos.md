@@ -7,11 +7,11 @@
   </tr>
   <tr>
     <td>URL</td>
-    <td>http://irekia.euskadi.eus/ </td>
+    <td><a href="http://irekia.euskadi.eus/">http://irekia.euskadi.eus/</a> </td>
   </tr>
   <tr>
     <td>URL repositorio</td>
-    <td>http://www.irekia.euskadi.eus/es/pages/10081-openirekia-publicacion-del-software-ogov-del-gobierno-vasco </td>
+    <td><a href="http://www.irekia.euskadi.eus/es/pages/10081-openirekia-publicacion-del-software-ogov-del-gobierno-vasco">http://www.irekia.euskadi.eus/es/pages/10081-openirekia-publicacion-del-software-ogov-del-gobierno-vasco</a> </td>
   </tr>
   <tr>
     <td>Resumen</td>
