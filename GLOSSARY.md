@@ -8,7 +8,7 @@ Interfaz de programación de aplicaciones, abreviada como API \(del inglés: App
 
 Hace referencia a la estructura, funcionamiento e interacción entre las partes del software. La Arquitectura del Software es el diseño de más alto nivel de la estructura de un sistema.
 
-## **CDN** \(Content Delivery Network\)
+## CDN
 
 Una red de entrega de contenidos \(CDN, content delivery network en inglés\) es una red superpuesta de ordenadores que contienen copias de datos, colocados en varios puntos de una red distribuida geográficamente con el fin de maximizar el ancho de banda para el acceso a los datos de clientes por la red. Un cliente accede a una copia de la información cerca del cliente, en contraposición a todos los clientes que acceden al mismo servidor central, a fin de evitar embudos cerca de ese servidor.
 
@@ -44,6 +44,10 @@ Puede definirse como un modelo político que facilita a la ciudadanía su capaci
 
 Docker es un proyecto de código abierto que automatiza el despliegue de aplicaciones dentro de contenedores de software, proporcionando una capa adicional de abstracción y automatización de Virtualización a nivel de sistema operativo en GNU Linux.
 
+## Emoji
+
+Emoji (絵文字) es un término japonés para los ideogramas o caracteres usados en mensajes electrónicos y sitios web. El término es una palabra compuesta que significa lo siguiente: imagen (e, 絵) + letra (moji, 文字) adaptada al español como emoyi. Los emojis son utilizados como los emoticonos principalmente en conversaciones de texto a través de teléfonos inteligentes.
+
 ## Framework
 
 Entorno de trabajo compuesto por un conjunto estandarizado de conceptos, prácticas y criterios para enfocar un tipo de problemática particular que sirve como referencia, para enfrentar y resolver nuevos problemas de índole similar.
@@ -69,6 +73,10 @@ Lenguaje de consultas creado por Facebook en 2012 y liberado en 2015 que permite
 ## Groupware
 
 Software colaborativo o groupware se refiere al conjunto de programas informáticos que integran el trabajo en un sólo proyecto, con muchos usuarios concurrentes, que se encuentran en diversas estaciones de trabajo, conectadas a través de una red \(internet o intranet\).
+
+## Heroku
+
+Heroku es propiedad de Salesforce.com. Heroku, es una de las primeras plataformas de computación en la nube, que fue desarrollada desde junio de 2007, con el objetivo de soportar solamente el lenguaje de programación Ruby, pero posteriormente se ha extendido el soporte a Java, Node.js, Scala, Clojure y Python y (no documentado) PHP. La base del sistema operativo es Debian o, en la nueva plataforma, el sistema basado en Debian Ubuntu.
 
 ## HTML
 
@@ -100,6 +108,10 @@ La Free Software Foundation recomienda que el uso de la GNU AGPLv3 sea considera
 
 Un lenguaje de marcado es una forma de codificar un documento que, junto con el texto, incorpora etiquetas o marcas que contienen información adicional acerca de la estructura del texto o su presentación. El lenguaje de marcas más extendido es el HTML.
 
+## Markdown
+
+Markdown es un lenguaje de marcado ligero creado por John Gruber que trata de conseguir la máxima legibilidad y facilidad de publicación tanto en su forma de entrada como de salida, inspirándose en muchas convenciones existentes para marcar mensajes de correo electrónico usando texto plano. 
+
 ## Metadatos
 
 Datos que describen otros datos.
@@ -120,6 +132,10 @@ Aplicado a las Bases de Datos, un modelo de datos permite describir:
 
 Arquitectura de software en la cual una sola instancia de la aplicación se ejecuta en el servidor, pero sirviendo a múltiples clientes u organizaciones \(tenedor o instancia\). Este modelo se diferencia de las arquitecturas con múltiples instancias donde cada organización o cliente tiene su propia instancia instalada de la aplicación. La arquitectura MultiTenant permite que cada cliente tenga una instancia virtual adaptada a sus requerimientos.
 
+## MySQL
+
+MySQL es un sistema de gestión de bases de datos relacional desarrollado bajo licencia dual GPL/Licencia comercial por Oracle Corporation y está considerada como la base datos open source más popular del mundo, y una de las más populares en general junto a Oracle y Microsoft SQL Server, sobre todo para entornos de desarrollo web.
+
 ## Newsletter
 
 Boletín informativo que se elabora y distribuye de forma regular entre los usuarios de un sistema con el fin de mantenerlos informados sobre las novedades del mismo.
@@ -132,19 +148,36 @@ Open311 petende ser un esfuerzo internacional para construir sistemas abiertos e
 
 Es una tecnología que proporciona canales abiertos de comunicación para temas que conciernen al espacio y  servicios públicos. Principalmente, Open311 se refiere a un protocolo estandarizado para el seguimiento de problemas colaborativo basado en la ubicación.
 
+## Open Street Map
+
+OpenStreetMap (también conocido como OSM) es un proyecto colaborativo para crear mapas libres y editables.
+
 ## Participación ciudadana
 
 Hace referencia al conjunto de mecanismos para que la ciudadanía acceda a las decisiones de gobierno de manera independiente y sin necesidad de formar parte de la administración pública o de un partido político.
 
 La participación ciudadana es considerada hoy en día como una pieza fundamental de los sistemas democráticos avanzados.
 
-## PLUGIN
+## PHP 
+
+PHP es un lenguaje de programación de propósito general de código del lado del servidor originalmente diseñado para el desarrollo web de contenido dinámico. 
+
+## Plugin
 
 Aplicación que se relaciona con otra para agregarle una función nueva y generalmente muy específica.
+
+
+## PostgreSQL
+
+PostgreSQL es un Sistema de gestión de bases de datos relacional orientado a objetos y libre, publicado bajo la licencia PostgreSQL, similar a la BSD o la MIT.
 
 ## Protocolo de comunicación
 
 En informática y telecomunicaciones un protocolo de comunicaciones es un sistema de reglas que permiten que dos o más entidades de un sistema de comunicación se comuniquen entre ellas para transmitir información.
+
+## Python
+
+Python es un lenguaje de programación interpretado cuya filosofía hace hincapié en una sintaxis que favorezca un código legible.
 
 ## REST
 
@@ -199,6 +232,10 @@ Herramienta para crear y configurar máquinas virtuales portables y reproducible
 ## Voto electrónico
 
 El voto electrónico se refiere a la emisión del voto utilizando medios electrónicos diferentes de los tradicionales voto presencial en papel y voto por correo.
+
+## Wiki
+
+El término wikinota (del hawaiano wiki, «rápido») alude al nombre que recibe un sitio web, cuyas páginas pueden ser editadas directamente desde el navegador, donde los mismos usuarios crean, modifican o eliminan contenidos que, generalmente, comparten.
 
 ## Websocket
 
