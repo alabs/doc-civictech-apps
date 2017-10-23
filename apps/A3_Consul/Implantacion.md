@@ -61,21 +61,21 @@ Es utilizada por distintos ayuntamientos españoles, como el de Oviedo, A Coruñ
   <tr>
     <td>BA Elige</td>
     <td>Buenos Aires, Argentina</td>
-    <td>https://baelige.buenosaires.gob.ar/</td>
+    <td><a href="https://baelige.buenosaires.gob.ar/">https://baelige.buenosaires.gob.ar/</a></td>
   </tr>
   <tr>
     <td>Participa Mendoza</td>
     <td>Mendoza, Argentina</td>
-    <td>http://participa.ciudaddemendoza.gob.ar/</td>
+    <td><a href="http://participa.ciudaddemendoza.gob.ar/">http://participa.ciudaddemendoza.gob.ar/</a></td>
   </tr>
   <tr>
     <td>Budget participatif de la RIVP</td>
     <td>Paris, Francia</td>
-    <td>https://budget-participatif.rivp.fr/budgets</td>
+    <td><a href="https://budget-participatif.rivp.fr/budgets">https://budget-participatif.rivp.fr/budgets</a></td>
   </tr>
   <tr>
     <td>VA!</td>
     <td>Valladolid, España</td>
-    <td>https://www10.ava.es/presupuestosparticipativos/</td>
+    <td><a href="https://www10.ava.es/presupuestosparticipativos/">https://www10.ava.es/presupuestosparticipativos/</a></td>
   </tr>
 </table>
