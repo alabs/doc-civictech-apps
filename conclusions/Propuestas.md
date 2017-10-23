@@ -50,13 +50,7 @@ Uno de los puntos fuertes para el proceso de deliberación puede ser permitir ag
 
 **Figura H.1.11 \(H.1 Your Priorities\): **Página de noticias en ideas
 
-### ~~8. Permitir agregar documentos, imágenes y URLs a una propuesta~~
-
-~~~~Una funcionalidad útil todavía no desarrollada es la posibilidad de agregar tanto imágenes como documentos de forma adjunta a una propuesta o a un comentario. Se puede ver un ejemplo de esta funcionalidad en el uso de adjuntos de Loomio.~~ ~~
-
-PROPUESTA REPETIDA \(VER PROPUESTA 1\) ... HE INTEGRADO AMBAS PROPUESTAS EN LA Nº 1. Habría que renumerar las prouestas a partir de aquí.
-
-### 9. Mejora contenidos iniciales post-instalación
+### 8. Mejora contenidos iniciales post-instalación
 
 En muchas de las aplicaciones estudiadas se facilita la creación de contenidos iniciales de cara a poder comprender mejor la aplicación y los tipos de contenidos soportados. En el caso de algunas, como Decidim y Consul, estos contenidos iniciales \(también llamados seeds o semillas en el caso del framework Ruby on Rails\), se tratan de contenidos generados automáticamente por una librería basada en "Lorem ipsum", textos sin sentido que sirven para poder visualizar el diseño final a falta de los contenidos reales.
 
