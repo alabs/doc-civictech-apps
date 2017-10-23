@@ -7,11 +7,11 @@
   </tr>
   <tr>
     <td>URL</td>
-    <td>http://www.allourideas.org</td>
+    <td><a href="http://www.allourideas.org">http://www.allourideas.org</a></td>
   </tr>
   <tr>
     <td>URL repositorio</td>
-    <td>https://github.com/allourideas/allourideas.org </td>
+    <td><a href="https://github.com/allourideas/allourideas.org">https://github.com/allourideas/allourideas.org</a> </td>
   </tr>
   <tr>
     <td>Resumen (Inglés)</td>
