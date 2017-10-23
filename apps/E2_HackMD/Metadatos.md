@@ -7,11 +7,11 @@
   </tr>
   <tr>
     <td>URL</td>
-    <td>https://hackmd.io/ </td>
+    <td><a href="https://hackmd.io/">https://hackmd.io/</a> </td>
   </tr>
   <tr>
     <td>URL repositorio</td>
-    <td>https://github.com/hackmdio/hackmd </td>
+    <td><a href="https://github.com/hackmdio/hackmd">https://github.com/hackmdio/hackmd</a> </td>
   </tr>
   <tr>
     <td>Resumen (Inglés)</td>
