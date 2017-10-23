@@ -7,11 +7,11 @@
   </tr>
   <tr>
     <td>URL</td>
-    <td>https://www.ushahidi.com/ </td>
+    <td><a href="https://www.ushahidi.com/">https://www.ushahidi.com/</a> </td>
   </tr>
   <tr>
     <td>URL repositorio</td>
-    <td>https://github.com/ushahidi/ </td>
+    <td><a href="https://github.com/ushahidi/">https://github.com/ushahidi/</a> </td>
   </tr>
   <tr>
     <td>Resumen (Inglés)</td>
