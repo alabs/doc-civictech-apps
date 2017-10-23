@@ -7,11 +7,11 @@
   </tr>
   <tr>
     <td>URL</td>
-    <td>https://adhocracy.de/  </td>
+    <td><a href="https://adhocracy.de/">https://adhocracy.de/</a>  </td>
   </tr>
   <tr>
     <td>URL repositorio</td>
-    <td>https://github.com/liqd/adhocracy </td>
+    <td><a href="https://github.com/liqd/adhocracy">https://github.com/liqd/adhocracy</a> </td>
   </tr>
   <tr>
     <td>Resumen (Inglés)</td>
