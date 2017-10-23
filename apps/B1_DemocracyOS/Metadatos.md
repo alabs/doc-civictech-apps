@@ -7,11 +7,11 @@
   </tr>
   <tr>
     <td>URL</td>
-    <td>http://democracyos.org/ </td>
+    <td><a href="http://democracyos.org/">http://democracyos.org/</a> </td>
   </tr>
   <tr>
     <td>URL repositorio</td>
-    <td>https://github.com/DemocracyOS/democracyos </td>
+    <td><a href="https://github.com/DemocracyOS/democracyos">https://github.com/DemocracyOS/democracyos</a> </td>
   </tr>
   <tr>
     <td>Resumen (Inglés)</td>
