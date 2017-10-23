@@ -7,11 +7,11 @@
   </tr>
   <tr>
     <td>URL</td>
-    <td>https://www.loomio.org/ </td>
+    <td><a href="https://www.loomio.org/">https://www.loomio.org/</a> </td>
   </tr>
   <tr>
     <td>URL repositorio</td>
-    <td>https://github.com/loomio/loomio </td>
+    <td><a href="https://github.com/loomio/loomio">https://github.com/loomio/loomio</a> </td>
   </tr>
   <tr>
     <td>Resumen (Inglés)</td>
