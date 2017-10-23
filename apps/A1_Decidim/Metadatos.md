@@ -7,11 +7,11 @@
   </tr>
   <tr>
     <td>URL</td>
-    <td>https://decidim.org/ </td>
+    <td>[https://decidim.org/](https://decidim.org/)</td>
   </tr>
   <tr>
     <td>URL repositorio</td>
-    <td>https://github.com/decidim/decidim </td>
+    <td>[https://github.com/decidim/decidim](https://github.com/decidim/decidim)</td>
   </tr>
   <tr>
     <td>Resumen (Inglés)</td>

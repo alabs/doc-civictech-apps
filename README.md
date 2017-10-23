@@ -1,5 +1,6 @@
 ![image alt text](image_0.png)
-(https://alabs.org)[https://alabs.org]
+
+[https://alabs.org](https://alabs.org)
 
 Análisis de plataformas de participación ciudadana y comunidades digitales
 
