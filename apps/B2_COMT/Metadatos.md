@@ -7,11 +7,11 @@
   </tr>
   <tr>
     <td>URL</td>
-    <td>http://www.co-ment.com/ </td>
+    <td><a href="http://www.co-ment.com/">http://www.co-ment.com/</a></td>
   </tr>
   <tr>
     <td>URL repositorio</td>
-    <td>https://github.com/co-ment/comt</td>
+    <td><a href="https://github.com/co-ment/comt">https://github.com/co-ment/comt</a></td>
   </tr>
   <tr>
     <td>Resumen (Inglés)</td>
