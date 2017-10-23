@@ -7,11 +7,11 @@
   </tr>
   <tr>
     <td>URL</td>
-    <td>https://petition.parliament.uk/ </td>
+    <td><a href="https://petition.parliament.uk/">https://petition.parliament.uk/</a> </td>
   </tr>
   <tr>
     <td>URL repositorio</td>
-    <td>https://github.com/alphagov/e-petitions </td>
+    <td><a href="https://github.com/alphagov/e-petitions">https://github.com/alphagov/e-petitions</a> </td>
   </tr>
   <tr>
     <td>Resumen (Inglés)</td>
