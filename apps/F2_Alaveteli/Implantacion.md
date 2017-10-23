@@ -11,122 +11,122 @@ Cuenta con más de 24 instalaciones en distintos países[^1]:
   <tr>
     <td>WhatDoTheyKnow</td>
     <td>United Kingdom</td>
-    <td>https://www.whatdotheyknow.com/</td>
+    <td><a href="https://www.whatdotheyknow.com/">https://www.whatdotheyknow.com/</a></td>
   </tr>
   <tr>
     <td>Ki Mit Tud</td>
     <td>Hungary</td>
-    <td>http://kimittud.atlatszo.hu/</td>
+    <td><a href="http://kimittud.atlatszo.hu/">http://kimittud.atlatszo.hu/</a></td>
   </tr>
   <tr>
     <td>FYI</td>
     <td>New Zealand</td>
-    <td>https://fyi.org.nz/</td>
+    <td><a href="https://fyi.org.nz/">https://fyi.org.nz/</a></td>
   </tr>
   <tr>
     <td>Доступ до правди</td>
     <td>Ukraine</td>
-    <td>https://dostup.pravda.com.ua/</td>
+    <td><a href="https://dostup.pravda.com.ua/">https://dostup.pravda.com.ua/</a></td>
   </tr>
   <tr>
     <td>Info Pro Všechny</td>
     <td>Czech Republic</td>
-    <td>http://www.infoprovsechny.cz/</td>
+    <td><a href="http://www.infoprovsechny.cz/">http://www.infoprovsechny.cz/</a></td>
   </tr>
   <tr>
     <td>Imamo pravo znati</td>
     <td>Croatia</td>
-    <td>http://imamopravoznati.org/</td>
+    <td><a href="http://imamopravoznati.org/">http://imamopravoznati.org/</a></td>
   </tr>
   <tr>
     <td>Right To Know</td>
     <td>Australia</td>
-    <td>https://www.righttoknow.org.au/</td>
+    <td><a href="https://www.righttoknow.org.au/">https://www.righttoknow.org.au/</a></td>
   </tr>
   <tr>
     <td>RightToKnow</td>
     <td>Malaysia</td>
-    <td>http://foi.sinarproject.org/</td>
+    <td><a href="http://foi.sinarproject.org/">http://foi.sinarproject.org/</a></td>
   </tr>
   <tr>
     <td>Que Sabes</td>
     <td>Uruguay</td>
-    <td>http://www.quesabes.org/</td>
+    <td><a href="http://www.quesabes.org/">http://www.quesabes.org/</a></td>
   </tr>
   <tr>
     <td>Nu Vă Supărați</td>
     <td>Romania</td>
-    <td>http://nuvasuparati.info/</td>
+    <td><a href="http://nuvasuparati.info/">http://nuvasuparati.info/</a></td>
   </tr>
   <tr>
     <td>Pravo Da Znam</td>
     <td>Bosnia</td>
-    <td>http://www.pravodaznam.ba/</td>
+    <td><a href="http://www.pravodaznam.ba/">http://www.pravodaznam.ba/</a></td>
   </tr>
   <tr>
     <td>Ask Data</td>
     <td>Israel</td>
-    <td>http://askdata.org.il/</td>
+    <td><a href="http://askdata.org.il/">http://askdata.org.il/</a></td>
   </tr>
   <tr>
     <td>Слободен пристап</td>
     <td>Macedonia</td>
-    <td>http://www.slobodenpristap.mk/</td>
+    <td><a href="http://www.slobodenpristap.mk/">http://www.slobodenpristap.mk/</a></td>
   </tr>
   <tr>
     <td>Sobanukirwa</td>
     <td>Rwanda</td>
-    <td>https://sobanukirwa.rw/</td>
+    <td><a href="https://sobanukirwa.rw/">https://sobanukirwa.rw/</a></td>
   </tr>
   <tr>
     <td>Chiedi</td>
     <td>Italy</td>
-    <td>https://chiedi.dirittodisapere.it/</td>
+    <td><a href="https://chiedi.dirittodisapere.it/">https://chiedi.dirittodisapere.it/</a></td>
   </tr>
   <tr>
     <td>accessinfo.hk</td>
     <td>Hong Kong</td>
-    <td>https://accessinfo.hk/</td>
+    <td><a href="https://accessinfo.hk/">https://accessinfo.hk/</a></td>
   </tr>
   <tr>
     <td>Ask Your Gov</td>
     <td>Uganda</td>
-    <td>http://askyourgov.ug/</td>
+    <td><a href="http://askyourgov.ug/">http://askyourgov.ug/</a></td>
   </tr>
   <tr>
     <td>Mimes Brønn</td>
     <td>Norway</td>
-    <td>https://www.mimesbronn.no/</td>
+    <td><a href="https://www.mimesbronn.no/">https://www.mimesbronn.no/</a></td>
   </tr>
   <tr>
     <td>QueremoSaber</td>
     <td>Paraguay</td>
-    <td>http://queremosaber.org.py/</td>
+    <td><a href="http://queremosaber.org.py/">http://queremosaber.org.py/</a></td>
   </tr>
   <tr>
     <td>Derecho A Preguntar</td>
     <td>Nicaragua</td>
-    <td>https://derechoapreguntar.org/</td>
+    <td><a href="https://derechoapreguntar.org/">https://derechoapreguntar.org/</a></td>
   </tr>
   <tr>
     <td>InfoLib</td>
     <td>Liberia</td>
-    <td>http://infolib.org.lr/</td>
+    <td><a href="http://infolib.org.lr/">http://infolib.org.lr/</a></td>
   </tr>
   <tr>
     <td>Transparencia</td>
     <td>Belgium</td>
-    <td>https://transparencia.be/</td>
+    <td><a href="https://transparencia.be/">https://transparencia.be/</a></td>
   </tr>
   <tr>
     <td>Queremosdatos</td>
     <td>Colombia</td>
-    <td>https://www.queremosdatos.co/</td>
+    <td><a href="https://www.queremosdatos.co/">https://www.queremosdatos.co/</a></td>
   </tr>
   <tr>
     <td>Fråga Staten</td>
     <td>Sweden</td>
-    <td>https://fragastaten.se/</td>
+    <td><a href="https://fragastaten.se/">https://fragastaten.se/</a></td>
   </tr>
 </table>
 
