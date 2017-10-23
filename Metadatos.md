@@ -6,9 +6,7 @@ Este documento ha sido escrito por Andrés Pereira de Lucena. El autor es a su v
 
 ## Revisores
 
-Daniel Vázquez \(Asociación aLabs\), Txema Laullón \(Asociación aLabs\), Pablo Aragón.
-
-![image alt text](image_1.png)
+Daniel Vázquez \(Asociación aLabs\), Txema Laullón \(Asociación aLabs\), Pablo Aragón, Xabier Barandiarán
 
 ## Palabras clave
 

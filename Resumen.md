@@ -60,4 +60,5 @@ Los aplicativos estudiados para la elaboración de este análisis han sido:
 
 * Turnometro
 
+Por último recomendamos estudiar para su integración en Decidim las aplicaciones Etherpad-Lite, Alaveteli y Pairwise API (de All Our Ideas), así como una serie de mejoras funcionales relativas a la Administración (explicaciones en panel de administración, gestión de permisos y newsletter), Documentación (funcional de la puesta en producción y contenidos de ejemplo), User Engagement (responder por correo electrónico y emojis) y Propuestas (permitir agregar documentos, fases para propuestas, puntos de recogida de apoyos, rectificación del apoyo, argumentos a favor y encontra, mejoras en anotación de txtos y agregar noticias a propuestas).
 

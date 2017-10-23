@@ -8,9 +8,3 @@
 
 * Permite tener un **feed RSS** para estar al tanto de las actualizaciones realizadas en el texto.
 
-* Su interfaz es antigua: el diseño no es responsivo, tiene problemas de usabilidad para el comentario del texto.
-
-Como el resto de aplicativos de "comentario de texto", COMT tiene unas funcionalidades muy limitadas y específicas que no permiten abordar procesos de participación ciudadana globales o más amplios.
-
-No obstante, al ser uno de los aplicativos de este tipo más antiguo ha sido utilizado en distintos procesos participativos como un elemento o herramienta más inter-relacionada con otros aplicativos o procesos.
-

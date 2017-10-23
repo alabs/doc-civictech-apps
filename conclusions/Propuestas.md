@@ -50,13 +50,4 @@ Uno de los puntos fuertes para el proceso de deliberación puede ser permitir ag
 
 **Figura H.1.11 \(H.1 Your Priorities\): **Página de noticias en ideas
 
-### 8. Mejora contenidos iniciales post-instalación
-
-En muchas de las aplicaciones estudiadas se facilita la creación de contenidos iniciales de cara a poder comprender mejor la aplicación y los tipos de contenidos soportados. En el caso de algunas, como Decidim y Consul, estos contenidos iniciales \(también llamados seeds o semillas en el caso del framework Ruby on Rails\), se tratan de contenidos generados automáticamente por una librería basada en "Lorem ipsum", textos sin sentido que sirven para poder visualizar el diseño final a falta de los contenidos reales.
-
-Por otra parte, en el caso de Discourse, esos contenidos iniciales son la propia explicación de la herramienta: cómo personalizarla inicialmente, preguntas frecuentes, textos de bienvenida a ciertas categorías, etc. Esto facilita la entrada de los usuarios iniciales \(administradores\) a la herramienta, ya que no deben buscar en la documentación de la herramienta sino que directamente se encuentran en la misma.
-
-![image alt text](image_13.png)
-
-**Figura D.1.7 \(D.1 Discourse\):** Página principal con sesión de administrador iniciada
 

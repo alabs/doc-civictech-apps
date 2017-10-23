@@ -6,13 +6,13 @@ Al acceder a Decidim como usuario administrador el panel de control no contiene 
 
 ![image alt text](image_14.png)
 
-**Figura A.1.30 (A.1 Decidim):** Administrador - Panel de control 
+**Figura A.1.7.30 (A.1 Decidim):** Administrador - Panel de control 
 
 De cara a facilitar la revisión y moderación de contenidos nuevos así como de información general de la plataforma se recomienda tener una serie de metadatos similares a los disponibles en Discourse: 
 
 ![image alt text](image_15.png)
 
-**Figura D.1.23 (D.1 Discourse):** Administrador: Panel de control
+**Figura D.1.7.23 (D.1 Discourse):** Administrador: Panel de control
 
 ### 2. Ayudas contextuales en Administrador
 
@@ -22,7 +22,7 @@ Un buen ejemplo de cómo pueden explicarse esos valores es el utilizado para Dis
 
 ![image alt text](image_16.png)
 
-**Figura D.1.24 (D.1 Discourse):** Administrador: Configuraciones
+**Figura D.1.7.24 (D.1 Discourse):** Administrador: Configuraciones
 
 ### 3. Traducciones faltantes 
 
@@ -32,21 +32,17 @@ Durante el análisis de Decidim se han encontrado una serie de campos en inglés
 
 **Figura A.1.34:** Administrador - Proceso Participativo - Información III
 
-
 ### 4. Granularidad de permisos 
 
 De cara a facilitar la adaptación por parte de otras entidades, con otro tipo de necesidades, se echa en falta un sistema de permisos por acciones, en el que se pueda configurar qué es lo que pueda realizar cada rol de usuario. Un buen ejemplo de esta interfaz es la de Open Irekia, donde se presenta una matriz de estos permisos que son, además, personalizables. 
 
 ![image alt text](image_17.png)
 
-**Figura A.2.17 (A.2 Open Irekia): **Permisos de usuarios
+**Figura A.2.17 (A.2 Open Irekia):** Permisos de usuarios
 
 ![image alt text](image_18.png)
 
-**Figura A.2.18 (A.2 Open Irekia): **Modificación de permisos de usuarios
-
-
-
+**Figura A.2.18 (A.2 Open Irekia):** Modificación de permisos de usuarios
 
 ### 5. Mejoras en sistema de newsletter
 
