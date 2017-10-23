@@ -7,11 +7,11 @@
   </tr>
   <tr>
     <td>URL</td>
-    <td>https://elgg.org/ </td>
+    <td><a href="https://elgg.org/">https://elgg.org/</a> </td>
   </tr>
   <tr>
     <td>URL repositorio</td>
-    <td>https://github.com/elgg/elgg </td>
+    <td><a href="https://github.com/elgg/elgg">https://github.com/elgg/elgg</a> </td>
   </tr>
   <tr>
     <td>Resumen (Inglés)</td>
