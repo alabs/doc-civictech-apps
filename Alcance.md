@@ -74,3 +74,4 @@ Posteriormente se documentan a nivel de **arquitectura** los grados de personali
 
 Por último se agrega información relativa al **modelo de datos**, con un esquema de la base de datos así como un listado de las tablas utilizadas por la aplicación.
 
+Finalmente se incluyen unas recomendaciones de integraciones a realizar así como unas conclusiones finales en las que resaltamos aquellos aspectos de la tecnología analizada que aportan mayor valor para Decidim.

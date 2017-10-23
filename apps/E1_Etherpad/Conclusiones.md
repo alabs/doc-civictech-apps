@@ -1,4 +1,4 @@
-### XX E.1.6 Conclusiones
+### E.1.6 Conclusiones
 
 Se trata de un de los aplicativo web para la elaboración colaborativa de textos \(documentos o 'pads'\) más antiguas.
 
@@ -8,5 +8,4 @@ Destaca la funcionalidad que permite visualizar el proceso de elaboración del d
 
 Cuenta con una API que permite a una aplicación web externa gestionar los pads, usuarios y grupos, así como clientes en los lenguajes de programación más populares \(Ruby, Javascript, Python, Perl, PHP, Java, Objective-C, .NET y Go\)[^1].
 
-
-
+Se recomienda la integración de etherpad-lite en el proceso de instalación estándar de Decidim, pudiendo crearase pads a través del administrador como un complemento propio o en conjunto con otros, por ejemplo para Encuentros presenciales, donde se puedan tomar actas y estas se puedan publicar con la URL de solo lectura. 

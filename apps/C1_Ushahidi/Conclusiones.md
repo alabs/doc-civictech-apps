@@ -6,5 +6,4 @@ Destaca su integración con diversos canales para la recepción y transmisión d
 
 Ha sido usada ampliamente para seguimiento geolocalizado de procesos electorales así como para el seguimiento de procesos participativos en general, aportando información visual de la geolocalización y etiquetado de los participantes y del proceso.
 
-.
-
+Se recomienda su estudio en caso de querer aplicar funcionalidades de recepción de propuestas geolocalizadas en Decidim, estudiando los canales utilizados por esta plataforma (SMS, Twitter, Email, Web, app, etc). Sería especialmente util aprender de esta aplicación si se quiere orientar el Decidim a la gestión de conflictos, incidencias o problemas en el territorio en tiempo real, pudiendo servir para alimentar y mejorar una fase de diagnósitco. 

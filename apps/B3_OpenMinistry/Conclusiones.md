@@ -6,7 +6,6 @@ Se trata por tanto de un aplicativo con unas funcionalidades muy concretas y esp
 
 Por otra parte el código ya no está mantenido ni se corresponde con la versión actualmente instalada, lo que tampoco facilita su integración ni adaptación a otros usos.
 
-No obstante son de destacar, como funcionalidades a rescatar para su posible implementación en otras plataformas, aquellas relativas a la claridad de las fases por las que discurren las propuestas como a las dinámicas de participación presencial.
-
+No obstante son de destacar, como funcionalidades a rescatar para su posible implementación en otras plataformas, aquellas relativas a la claridad de las fases por las que discurren las propuestas como a las dinámicas de participación presencial. Otros aspectos destacables son la proposición de expertos en un tema dado por parte de la ciudadanía y el uso de mesas de firmas presenciales.
 
 

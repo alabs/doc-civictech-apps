@@ -6,5 +6,4 @@ El método de la comparación a pares ayuda a evitar el efecto arrastre o bandwa
 
 Destaca el apoyo académico que recibe del Departamento de Sociología de la Universidad de Princeton.
 
-
-
+En caso de querer realizarse dináimicas participativas de votación a pares (funcionalidad ahora mismo no contemplada en Decidim) se recomienda el estudio de la API Pairwise como componente optativo durante la instalación de la plataforma, a elección de los administradores. 

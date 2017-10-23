@@ -6,3 +6,4 @@ Al permitir embeber a través de un iframe la mayoría de las implantaciones se 
 
 A nivel técnico cuenta con varios problemas principalmente relacionados con su falta de mantenimiento y modernización en los últimos años: la interfaz cuenta con varios problemas de usabilidad \(no queda claro al comentar un texto el flujo que hay que seguir\), no cuenta con un diseño responsivo y adaptable a dispositivos móviles, que cada vez tienen más relevancia en los últimos años.
 
+Se recomienda revision en caso de requerirse una funcionalidad de importación de documentos de Word/ODT.

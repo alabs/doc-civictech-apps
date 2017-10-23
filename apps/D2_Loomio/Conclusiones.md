@@ -6,3 +6,4 @@ Cuenta con unas funcionalidades limitadas pero suficientes a los fines del aplic
 
 Otro punto destacable es la amplitud y calidad de la documentación del aplicativo, algo no usual en apliaciones informáticas del ecosistema del software libre u open source creado y mantenido por comunidades amplias y hetereogéneas.
 
+Se recomienda investigar por partel equipo Decidim la interfaz a doble columna para posible desarrollo futuro de toma de consensos dentro de la plataforma a través de un nuevo componente de deliberación y votación continuamente suponiedno un reto imporatnte requiriendo un trabajo importante en la lógica básica de Decidim.

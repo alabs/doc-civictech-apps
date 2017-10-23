@@ -8,3 +8,4 @@ Destacan algunas funcionalidades innovadoras como la de poder dirigir los report
 
 Es un aplicativo que debería tomarse en cuanta para el caso de que se plantee su integración en las plataformas de participación ciudadana a nivel local.
 
+Se recomienda el estudio de las funcionalidades relativas al proceso de registro del usuario durante la creación de las incidencias. Así mismo cabe destacar la integración del servicio de software libre Open311, pudiendo facilitar la transparencia en las respuestas por parte de los funcionarios municipales reduciendo la fricción del proceso de comunicación de las mismas. 
