@@ -8,7 +8,7 @@ Finalmente destaca la interfaz de usuario para la anotación de textos.
 
 Por otro lado, se trata de una aplicación monolítica sin soporte para adaptaciones gráficas \(CSS, HTML, Imagenes\), aunque  permite la sobreescritura de ciertos ficheros para facilitar su actualización.
 
-Por último, la plataforma Consul cuenta con inconvenientes relativos a mejorar el sistema de gobernanza de la comunidad, introduciendo cuellos de botella en la aceptación de cambios que se quieran proponer para Consul.
+Por último, la plataforma Consul cuenta con inconvenientes relativos a mejorar el sistema de gobernanza de la comunidad, introduciendo cuellos de botella en la aceptación de cambios que se quieran proponer para Consul. Es especialmente reseñable la falta de un roadmap claro definido, la falta de versionado como proyecto de software y el uso de código ad-hoc para muchos de los procesos participativos que realizan en Decide Madrid. 
 
 La versión original de Decidim Barcelona se ha realizado basándose en esta aplicación, aunque en las siguientes versiones se ha reescrito con una nueva arquitectura que permite la modularización del código.
 
