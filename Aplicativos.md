@@ -12,7 +12,7 @@ Con el fin de facilitar la navegación por las distintas aplicaciones y su compa
   <tr>
     <td>Categoría</td>
     <td>Características</td>
-    <td>Ejemplos</td>
+    <td>Aplicaciones</td>
   </tr>
   <tr>
     <td>A. Integral</td>
