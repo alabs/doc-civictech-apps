@@ -6,13 +6,13 @@ Esa versatilidad y amplitud de las funcionalidades del aplicativo hacen que pued
 
 Se destaca especialmente la cantidad de información y presentación visual que cuenta en el panel de control de administración, facilitando la revisión y moderación de contenidos nuevos así como de información general de la plataforma: 
 
-![image alt text](image_15.png)
+![image alt text](image_40.png)
 
 **Figura D.1.7.23:** Administrador: Panel de control
 
 Por otro lado algo especialmente útil es la explicación que cuenta cada uno de sus configuraciones en un panel de administración especialmente completo: 
 
-![image alt text](image_16.png)
+![image alt text](image_41.png)
 
 **Figura D.1.7.24:** Administrador: Configuraciones
 
