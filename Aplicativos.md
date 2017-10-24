@@ -18,9 +18,11 @@ Con el fin de facilitar la navegación por las distintas aplicaciones y su compa
     <td>A. Integral</td>
     <td>Permiten distintos tipos de dinámicas participativas integradas que posibilitan llevar a cabo distintos modelos de procesos participativos. Para ello cuentan con mecanismos integrados de "Comentario de texto", “Mapeo colaborativo” y “Debate”.</td>
     <td>
-    * A.1. Decidim 
-    * A.2. Open Irekia
-    * A.3. Consul
+      <ul>
+        <li>A.1. Decidim </li>
+        <li>A.2. Open Irekia</li>
+        <li>A.3. Consul</li>
+      </ul>
     </td>
   </tr>
   <tr>
