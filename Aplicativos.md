@@ -28,63 +28,106 @@ Con el fin de facilitar la navegación por las distintas aplicaciones y su compa
   <tr>
     <td>B. Comentario de texto</td>
     <td>Permiten añadir notas sobre una sección de un texto.</td>
-    <td>B.1. DemocracyOS
-B.2. COMT
-B.3. Open Ministry</td>
+    <td>
+      <ul>
+        <li>B.1. DemocracyOS</li>
+        <li>B.2. COMT</li>
+        <li>B.3. Open Ministry</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>C. Mapeo colaborativo</td>
     <td>Permiten realizar reportes o eventos geolocalizados sobre un mapa. </td>
-    <td>C.1. Ushahidi
-C.2. FixMyStreet</td>
+    <td>
+      <ul>
+        <li>C.1. Ushahidi</li>
+        <li>C.2. FixMyStreet</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>D. Debate</td>
     <td>Permiten a una comunidad digital tener un foro de discusión. </td>
-    <td>D.1. Discourse
-D.2. Loomio</td>
+    <td>
+      <ul>
+        <li>D.1. Discourse</li>
+        <li>D.2. Loomio</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>E. Escritura colaborativa en tiempo real </td>
     <td>Permiten escribir un texto entre varias personas simultáneamente (en tiempo real). </td>
-    <td>E.1. Etherpad
-E.2. HackMD</td>
+    <td>
+      <ul>
+        <li>E.1. Etherpad</li>
+        <li>E.2. HackMD</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>F. Transparencia</td>
     <td>Permiten tener mecanismos de control por rendición de cuentas de los cargos públicos y hacer seguimiento de su actividad política y/o gestora. </td>
-    <td>F.1. Pombola
-F.2. Alaveteli</td>
+    <td>
+      <ul>
+        <li>F.1. Pombola</li>
+        <li>F.2. Alaveteli</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>G. Propuestas (votación a pares)</td>
     <td>Dadas dos propuestas o respuestas a una pregunta permite escoger la preferida por el usuario, así como realizar una alternativa. </td>
-    <td>G.1. pol.is
-G.2. All Our Ideas</td>
+    <td>
+      <ul>
+        <li>G.1. pol.is</li>
+        <li>G.2. All Our Ideas</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>H. Propuestas (priorización)</td>
     <td>Permiten priorizar o votar distintas propuestas, peticiones o prioridades. </td>
-    <td>H.1. Your Priorities
-H.2. e-petitions (gov.uk)</td>
+    <td>
+      <ul>
+        <li>H.1. Your Priorities</li>
+        <li>H.2. e-petitions (gov.uk)</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>I. Voto electrónico</td>
     <td>Permiten crear y gestionar votaciones con ciertas garantías de confidencialidad y verificabilidad. </td>
-    <td>I.1. nVotes
-I.2. Helios Voting</td>
+    <td>
+      <ul>
+        <li>I.1. nVotes</li>
+        <li>I.2. Helios Voting</li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td>J. eGroupware</td>
+    <td>
+      <ul>
+        <li>J.1 eGroupware</li>
+        <li>J.2 Adhocracy</li>
+    </td>
     <td>Permiten a grupos trabajar y organizarse a través de una plataforma web, con distintas funcionalidades (foros de debate, calendarios compartidos, etc). </td>
-    <td>J.1. Adhocracy
-J.2. Elgg</td>
+    <td>
+      <ul>
+        <li>J.1. Adhocracy</li>
+        <li>J.2. Elgg</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>K. Dinamización de asambleas</td>
     <td>Permiten dinamizar una asamblea, llevando turnos de palabra y limitando la duración de cada turno. </td>
-    <td>K.1. Turnometro
-</td>
+    <td>
+      <ul>
+        <li>K.1. Turnometro</li>
+      </ul>
+    </td>
   </tr>
 </table>
 
