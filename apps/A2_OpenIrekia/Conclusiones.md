@@ -12,23 +12,23 @@ Entre sus puntos fuertes se encuentra la gestión granular de permisos de usuari
 > 
 >    * _Periodista_: personal de medios de comunicación a los que se les invita mediante un sistema de notificaciones vía email a los eventos públicos de la Agenda con una antelación de tres días. El alta es sólo mediante formulario (accesible desde enlace en la Agenda y/o en el pie de página), donde puede elegir sus áreas de interés; las peticiones son aprobadas a posteriori tras su aceptacion por el administrador.
 > 
->  Internos:
+> * Internos:
 > 
->      _Administradores_ (admin@example.com; contraseña: openirekia)
+>    *  _Administradores_ (admin@example.com; contraseña: openirekia)
 > 
->      _Jefes de Prensa _(jefe_dept@example.com; contraseña: openirekia): responsables de comunicación de la Administración, a los que se les mantiene informados mediante el sistema de notificaciones vía email de la actividad en el portal. Como segundo perfil disponible, pero sin el sistema de notificación está el el _Jefe de Gabinete_.
+>    *  _Jefes de Prensa _(jefe_dept@example.com; contraseña: openirekia): responsables de comunicación de la Administración, a los que se les mantiene informados mediante el sistema de notificaciones vía email de la actividad en el portal. Como segundo perfil disponible, pero sin el sistema de notificación está el el _Jefe de Gabinete_.
 > 
->      _Miembros de departamento _: corresponde al equipo de editores departamentales con diferentes atribuciones seleccionables de permisos. 
+>    *  _Miembros de departamento _: corresponde al equipo de editores departamentales con diferentes atribuciones seleccionables de permisos. 
 > 
->      _Colaboradores_: similar al anterior, pero con permisos acotados. En el caso de los _Colaboradores externos_, con permisos más limitados.
+>    *  _Colaboradores_: similar al anterior, pero con permisos acotados. En el caso de los _Colaboradores externos_, con permisos más limitados.
 > 
->      _Políticos _(politician@example.com; contraseña: openirekia): identifica a los altos cargos que componen la estructura del Gobierno. Disponene de una ficha pública donde queda recogida toda su actividad en el portal (ver más adelante el apartado "Cargos Gobierno y otros asistentes") Una vez creada su ficha, es necesario adscribirle a un Área concreta (desde la página de administraci´n de áreas > equipo)
+>    *  _Políticos _(politician@example.com; contraseña: openirekia): identifica a los altos cargos que componen la estructura del Gobierno. Disponene de una ficha pública donde queda recogida toda su actividad en el portal (ver más adelante el apartado "Cargos Gobierno y otros asistentes") Una vez creada su ficha, es necesario adscribirle a un Área concreta (desde la página de administraci´n de áreas > equipo)
 > 
 >      Para lo referido a la operatoria de los streamings on-line, se disponen de los siguientes perfiles:
 > 
->          _Operadores de streaming _(operador@example.com; contraseña: openirekia): corresponde al operador de guardia que activa remotamente las cámaras y encoders de las salas registradas en el portal como habilitadas para la retransmisión en directo, dando comienzo y fin a las emisiones programadas.
+>    *      _Operadores de streaming _(operador@example.com; contraseña: openirekia): corresponde al operador de guardia que activa remotamente las cámaras y encoders de las salas registradas en el portal como habilitadas para la retransmisión en directo, dando comienzo y fin a las emisiones programadas.
 > 
->          _Responsables de sala_: responsable de la sala encargado de su apertura, encendido, pruebas, etc.
+>    *      _Responsables de sala_: responsable de la sala encargado de su apertura, encendido, pruebas, etc.
 > 
 > La mayoría de estos perfiles reciben notificaciones vía email en función de las funciones asociadas y momentos diferenciados (ver más[ información y textos en el PDF](https://openirekia.compas.alabs.org/uploads/attachments/2/Open_Irekia_-_textos_emails_notificaciones_en_v5.pdf?1410504121) adjunto en el área de descargas de esta página). 
 > 
